@@ -1,0 +1,51 @@
+[
+    {
+        "id": "document",
+        "name": "fujimoto_en",
+        "version": "1.0"
+    },
+    {
+        "id": "fujimoto_en1",
+        "name": "Haruyoshi Fujimoto",
+        "description": "<div class=\"balloon\"><div class=\"shogen\"><p class=\"image\"><img src=\"data/photo/haruyoshi_fujimoto.jpg\"></p><p class=\"body_en\">65 Years ago this morning, I was waiting for the train to Hiroshima.  The train was behind the time due to the air raid alarm, and I thought I might be too late to see my sister, working as training nurse in the hospital near the center of the city.  So I skipped the street car stop to the hospital, and hurried to the motor-pool of trucking company, to which we were mobilized at that stage of war.  As soon as I got into the up-stair classroom of the motor pool for morning lecture, I was struck by the violent light and blast that followed, and I was thrown into the darkness of dust and debris. I thought I was hit by a direct bombing.</p><p class=\"body_en\">Somehow I got out of the darkness and debris, and found myself running away on the roof of collapsed houses, and coming out on the street, I screamed for help toward a truck, that was running off at a full speed. They picked me up and we came to the nearby hospital, yet found no help but total confusion. I walked back home in the suburbs about 5 hours later, weary and exhausted, yet survived. A few days later, I went into the ruined city, that turned into debris and ashes, still burning here and there. Desperately I tried to find my sister, whom I should have met alive days before. I looked and looked, but couldn’t find her body. In my total despair, I cried out saying, “I will surely revenge this someday, somehow!”  Since then I looked for the way to do so. My early teenage was spent with a bitter resentment, toward those who dropped the bomb, killing my sister, my relative and friends. </p><p class=\"body_en\">I hated Americans and all those who killed and destroyed our cities, houses and schools. And the more I hated them, the more I hated myself in return. I was trapped in the prison of hatred. In the vicious cycle, I happened to read the Bible and knew a man Jesus who prayed for his enemy, saying “Father forgive them for they don’t know what they are doing”. I was shocked to read it and exclaimed in my heart, “What is this man who could forgive even his enemy? He is not a man but He must be God”.  Then my search for Jesus began at the age of 17, and I was baptized when I was 19.</p><p class=\"body_en\">Yet, my resentment against those who dropped the bomb was not easily dissolved. Intellectually I under-stood that I should forgive the old enemy, but emotionally, my anger rose up whenever I heard the justification of the A-bomb dropping, without any regret and pain or sympathy.  I looked for the help that resolve my resentment, and a few years later, I found the answer in the N.T., Roman 12;19-22 which says;</p><p class=\"body_en\"><i>“Beloved, never avenge yourselves, but leave room for the wrath of God; for it is written, “Vengeance is mine, I will repay, says the Lord” No, “If your enemies are hungry, feed them; if they are thirsty give them something to drink; for by doing this, you will heap burning coals on their heads” Do not be overcome by evil, but overcome evil with good.”</i></p><p class=\"body_en\">Then I knew I was wrong to live a life of vengeance and I must live a life of forgiveness and reconciliation, and a life of testimony that vengeance is vain, and ends up in vicious cycle of evil.  However, this vicious cycle is still on its way today and killing everywhere, hundreds and thousands innocent people and children.</p><p class=\"body_en\">After finishing High School, I was given a job at ABCC ( Atomic Bomb Casualty Commission) in Hiroshima and in 1954,I was standing beside IBM 402 tabulator watching over the tabulation sheet coming out the machine. It was the leukemia death rate statistics among the exposed patients.  Suddenly I noticed that I should be included among them, judging from the distance where I was at the time of bombing, the age and frequency I was exposed to radio activity by going into the city for searching my sister. I looked at it and marveled at my survival and exclaimed in my heart, saying, “Wow, why am I living now, Oh my God” and almost immediately, a voice came into my heart, saying, “My eternal arm sustain you underneath”  I knew it was often quoted in the prayer of my pastor, who had lost her husband and children by A. Bomb, and she herself was suffering from tongue cancer. It was the word from Deu.33;27.  At that moment, I knew I was not living by myself, but was made to live as a witness of genocide and atrocity. I felt I was called to some kind of ministry for peace and I decided to quit ABCC and go to a college to pursue my vocation.</p><p class=\"body_en\">Early next year 1955, I had left knee surgery to face my future calling, because I had been limping since I was 5 years old, due to my wounded and deformed knee. Right after the surgery, I had a vision that said, “Stand up and go toward the south to the road that goes down from Jerusalem to Gaza, this is a wilderness road” (Acts 8;26)  As I wondered what it meant, my pastor came to see me, asking me, if I was interested in going into ministry. I was then reading a book “Kingship of Christ” written by Visser’t Hooft, a well-known leader of World Council of Churches, that emphasized the obedience to the Kingship of Christ　I was challenged and convinced of God’s calling to me into Christian ministry. This is how I became a Christian minister.</p><p class=\"body_en\">After working 16 years in Japan as school chaplain and pastor, another 16 years in the US, as missionary and Japanese language minister, I retired at the age of 65. At my 70th BD, however, I remembered God’s calling to me as a witness of forgiveness and reconciliation and I started to write my autobiography, which I published last year in Japanese and in English.</p><p class=\"body_en\">God is still calling us, out of self-centered nationalism and patriotism into the frontier of reconciliation and forgiveness, overcoming the vicious cycle of vengeance and prejudice. If the US Government dropped the Atomic Bomb as the revenge of Pearl Harbor, they should be testified in divine court, for it is not only the crime against humanity, but rebellion against God, who says “Vengeance is mine, I will pay them back”. Let us remember that warning from God first comes to His own people through disasters, climate change, wars and conflicts. If we see ourselves as godly and religious people, we must repent and confess our sins as soon as possible, for the final day is coming soon or later.</p></div><div class=\"reference\"><p class=\"reference\">Prepared for Japanese American Interfaith Group<br />by Rev. H. Fujimoto, one of Hiroshima survivors, Aug.6,2010</p></div></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/fujimoto/1.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.467501,
+                34.376798,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.467501,
+                    34.376798,
+                    150,
+                    132.467501,
+                    34.376798,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

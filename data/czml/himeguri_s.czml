@@ -1,0 +1,535 @@
+[
+    {
+        "id": "document",
+        "name": "himeguri",
+        "version": "1.0"
+    },
+    {
+        "id": "himeguri1",
+        "name": "被爆した墓石",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/e7gMtGabwBQ\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45182121293,
+                34.393961776923,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45182121293,
+                    34.393961776923,
+                    20,
+                    132.45182121293,
+                    34.393961776923,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri2",
+        "name": "島病院",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/0yNIsJLVDLo\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45482599163,
+                34.394824216688,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45482599163,
+                    34.394824216688,
+                    20,
+                    132.45482599163,
+                    34.394824216688,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri3",
+        "name": "韓国人原爆犠牲者慰霊碑",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/gMTGJ6gA1hg\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45182388439,
+                34.394148001797,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45182388439,
+                    34.394148001797,
+                    20,
+                    132.45182388439,
+                    34.394148001797,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri4",
+        "name": "広島市立高女原爆慰霊碑",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/wdVIqynszcw\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4526946173,
+                34.39011592865,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4526946173,
+                    34.39011592865,
+                    20,
+                    132.4526946173,
+                    34.39011592865,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri5",
+        "name": "広島平和記念資料館",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/OYYVtiavAhY\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45211181005,
+                34.391846062254,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45211181005,
+                    34.391846062254,
+                    20,
+                    132.45211181005,
+                    34.391846062254,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri6",
+        "name": "レストハウス",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/mknZBwe-zZ0\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45325264012,
+                34.393825814908,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45325264012,
+                    34.393825814908,
+                    20,
+                    132.45325264012,
+                    34.393825814908,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri7",
+        "name": "原爆ドーム",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/bTzMX65ZUTY\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4535240927,
+                34.395465815569,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4535240927,
+                    34.395465815569,
+                    20,
+                    132.4535240927,
+                    34.395465815569,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri8",
+        "name": "相生橋",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/d5brksguYm0\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45258896728,
+                34.396514552479,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45258896728,
+                    34.396514552479,
+                    20,
+                    132.45258896728,
+                    34.396514552479,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri9",
+        "name": "原爆供養塔",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/kBGP9lF-2g4\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45201593688,
+                34.394653728481,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45201593688,
+                    34.394653728481,
+                    20,
+                    132.45201593688,
+                    34.394653728481,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri10",
+        "name": "原爆死没者慰霊碑",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/JgTqTSbXa3c\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45256249744,
+                34.392976789271,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45256249744,
+                    34.392976789271,
+                    20,
+                    132.45256249744,
+                    34.392976789271,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri11",
+        "name": "峠三吉詩碑",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/VQE_23xOe0I\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45319255955,
+                34.392246417182,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45319255955,
+                    34.392246417182,
+                    20,
+                    132.45319255955,
+                    34.392246417182,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "himeguri12",
+        "name": "原爆の子の像",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe scrolling=\"no\" frameborder=\"no\" width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/JuFU2G7xsM8\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/himeguri_movie/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45275817756,
+                34.394134585585,
+                20
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45275817756,
+                    34.394134585585,
+                    20,
+                    132.45275817756,
+                    34.394134585585,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

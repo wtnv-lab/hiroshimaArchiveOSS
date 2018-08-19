@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>平和公園碑巡り.kml</name>
+	<open>1</open>
+	<Style id="sn_tsuru">
+		<IconStyle>
+			<color>ffddfffd</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://hiroshima.archiving.jp/kml/himeguri_movie/1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.3" xunits="fraction" yunits="fraction"/>
+		</IconStyle><LabelStyle><scale>0</scale></LabelStyle>
+		<LabelStyle>
+			<color>87ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[$[name]
+	$[description]
+	</div>]]></text>
+			<textColor>aaaaaaaa</textColor>
+			<bgColor>00000000</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle><color>22ffc5ca</color></LineStyle>
+	</Style>
+	<Style id="sh_tsuru">
+		<IconStyle>
+			<color>ffddfffd</color>
+			<scale>1.0</scale>
+			<Icon>
+				<href>http://hiroshima.archiving.jp/kml/himeguri_movie/1.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="-0.3" xunits="fraction" yunits="fraction"/>
+		</IconStyle><LabelStyle><scale>0</scale></LabelStyle>
+		<LabelStyle>
+			<color>87ffffff</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[$[name]
+	$[description]
+	</div>]]></text>
+			<textColor>aaaaaaaa</textColor>
+			<bgColor>00000000</bgColor>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>22ffc5ca</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_tsuru">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tsuru</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tsuru</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>平和公園碑巡り</name>
+		<open>1</open>
+		<Placemark>
+			<name>The A-bombed Tombstone</name>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/e7gMtGabwBQ
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4521094227584</longitude>
+				<latitude>34.39372880931461</latitude>
+				<altitude>0</altitude>
+				<heading>16.93711293620027</heading>
+				<tilt>5.476816477101128</tilt>
+				<range>127.4702060538027</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4518212129263,34.39396177692282,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shima Hospital</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/0yNIsJLVDLo
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4548088144255</longitude>
+				<latitude>34.39470521338417</latitude>
+				<altitude>0</altitude>
+				<heading>11.88003787184187</heading>
+				<tilt>17.14209000376923</tilt>
+				<range>103.5269112120328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4548259916302,34.39482421668836,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Korean A-bomb Victim Cenotaph</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/gMTGJ6gA1hg
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4521875465961</longitude>
+				<latitude>34.39412430930958</latitude>
+				<altitude>0</altitude>
+				<heading>11.79607343894807</heading>
+				<tilt>0</tilt>
+				<range>111.6682357632144</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4518238843882,34.39414800179686,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hiroshima Womens High School Cenotaph</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/wdVIqynszcw
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4532754549915</longitude>
+				<latitude>34.39042022983069</latitude>
+				<altitude>0</altitude>
+				<heading>17.41586396527215</heading>
+				<tilt>0</tilt>
+				<range>302.9802459674347</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4526946173011,34.39011592865042,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hiroshima Peace Memorial Museum</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/OYYVtiavAhY
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4533858826993</longitude>
+				<latitude>34.39085782378042</latitude>
+				<altitude>0</altitude>
+				<heading>16.99327669006355</heading>
+				<tilt>0</tilt>
+				<range>939.3546078166275</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4521118100531,34.39184606225388,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rest House</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/mknZBwe-zZ0
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4534795410722</longitude>
+				<latitude>34.39339144031475</latitude>
+				<altitude>0</altitude>
+				<heading>11.07259138176057</heading>
+				<tilt>4.910873086395272</tilt>
+				<range>168.9296268074948</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4532526401171,34.39382581490846,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A-bomb Dome</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/bTzMX65ZUTY
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4538981061606</longitude>
+				<latitude>34.39523386362066</latitude>
+				<altitude>0</altitude>
+				<heading>18.54661226415871</heading>
+				<tilt>18.58649483345832</tilt>
+				<range>279.0680018812677</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4535240926966,34.39546581556903,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aioi Bridge</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/d5brksguYm0
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4536119968427</longitude>
+				<latitude>34.39535862264609</latitude>
+				<altitude>0</altitude>
+				<heading>15.79799995316641</heading>
+				<tilt>32.71285793093314</tilt>
+				<range>639.3402129184601</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4525889672818,34.39651455247915,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A-bomb Votive Pagoda</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/kBGP9lF-2g4
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4537024392251</longitude>
+				<latitude>34.39529215186278</latitude>
+				<altitude>0</altitude>
+				<heading>-6.186110683514094</heading>
+				<tilt>32.84220759145774</tilt>
+				<range>544.9770807035233</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4520159368801,34.39465372848132,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cenotaph for the A-bomb Victims</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/JgTqTSbXa3c
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4529643977828</longitude>
+				<latitude>34.39324574795825</latitude>
+				<altitude>0</altitude>
+				<heading>18.20278187595631</heading>
+				<tilt>0</tilt>
+				<range>506.7317720295936</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4525624974353,34.39297678927088,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Touge-Sankichi Monument</name>
+			<open>1</open>
+				<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/VQE_23xOe0I
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<LookAt>
+				<longitude>132.4534243869555</longitude>
+				<latitude>34.39227738862627</latitude>
+				<altitude>0</altitude>
+				<heading>17.8595251163492</heading>
+				<tilt>0</tilt>
+				<range>187.1926112551001</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4531925595549,34.39224641718228,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A-bomb Child Statue</name>
+			<open>1</open>
+			<description><![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/JuFU2G7xsM8
+					" frameborder="0" allowfullscreen></iframe></div><div class="reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]></description>
+			<Camera>
+				<longitude>132.4526975031572</longitude>
+				<latitude>34.39373515448102</latitude>
+				<altitude>71.2486663619537</altitude>
+				<heading>18.74474507110017</heading>
+				<tilt>22.02029183284238</tilt>
+				<roll>-0.5749647713021618</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_tsuru</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>132.4527581775594,34.39413458558487,20</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,1459 @@
+[
+    {
+        "id": "document",
+        "name": "kiokuwo_uketsugu_en",
+        "version": "1.0"
+    },
+    {
+        "id": "kiokuwo_uketsugu_en1",
+        "name": "Mitsuo Kodama",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Lost many friends near hypocenter, Affected by chromosomal abnormalities: Telling of A-bomb experiences</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-b6CTjvjaex4/U6ZDaMxcz0I/AAAAAAAEkyI/rQOszx0ohRw/w640-h548-no/%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E7%25B6%2599%25E3%2581%258F%25E3%2582%2599+%25E5%2585%2590%25E7%258E%2589%25E5%2585%2590%25E7%258E%2589%25E5%2585%2589%25E9%259B%2584%25E3%2581%2595%25E3%2582%2593.jpg\"></p><p class=\"body_en\">by Daisuke Yamamoto, Staff Writer</p>\n\t\t\t\t<p class=\"body_en\">Mitsuo Kodama, 81, was a mere 870 meters from the hypocenter at the time of the atomic bombing. Then 12 years old, Mr. Kodama was exposed to a large amount of radiation, and his cells were damaged. He has undergone 19 operations for cancer, and there is no hope of repairing his chromosomal abnormalities. Mr. Kodama continues to emphasize the horror of nuclear weapons saying, “No one else must ever experience what I did.”</p>\n\t\t\t\t\t<p class=\"body_en\">At the time of the A-bombing, Mr. Kodama was a first-year student at First Hiroshima Prefectural Junior High School (now Kokutaiji High School). He was in a classroom in the one-story wooden school building, which was located in Zakoba-cho (now part of Naka Ward). “A yellow pillar of flames came down in the courtyard, and I passed out. When I came to, the school building had been completely flattened.” Sandwiched in the space between his desk and chair, Mr. Kodama, who was small, was miraculously unharmed. </p>\n\t\t\t\t\t<p class=\"body_en\">It was pitch black outside, and the sun was obscured by haze. After Mr. Kodama had pulled several of his classmates out from under the collapsed school building, it began to be engulfed in flames. Many students who were trapped and could not move started calling for help from their mothers. Before long the students began softly singing the school song. Mr. Kodama put his hands together prayerfully, cried out “Forgive me, friends!” through tears and left. Of the about 300 of his classmates who had come to school that day, only 19 survived. </p>\n\t\t\t\t\t<p class=\"body_en\">After traveling on foot and by train, late that night Mr. Kodama finally reached the house in Hesaka (now part of Higashi Ward) to which his family had relocated for safety. But one week later his hair and eyebrows began to fall out. He bled from his gums and the corners of his eyes and had a high fever of 42 degrees C. Purple spots appeared on his body. The doctor who came to the house to care for him didn’t think he would live, but in September his fever broke and his condition stabilized. “My mother brewed tea from dokudami [a medicinal plant] for me and rubbed roasted dokudami on the wounds that had festered. She put her heart and soul into nursing me. It was her love that kept me alive,” he said. </p>\n\t\t\t\t\t<p class=\"body_en\">For years afterwards Mr. Kodama had no major illnesses, but in his 60s, one after another cancers were discovered, including cancer of the skin, rectum, stomach and thyroid gland. It was not a case of metastasis. Rather, multiple forms of cancer occurred simultaneously in different organs. Mr. Kodama had 19 operations, including 16 for skin cancer.</p>\n\t\t\t\t\t<p class=\"body_en\">In September 2007, a test conducted at the Radiation Effects Research Foundation found that Mr. Kodama’s cells had chromosomal abnormalities as a result of the A-bombing. He was experiencing frequent chromosomal “translocations” in which a whole chromosome or a segment of a chromosome becomes attached to or interchanged with another chromosome or segment. In Mr. Kodama’s case this was occurring at an average of one translocation per cell, disrupting his genetic material and leading to cancer. He was told that this condition would not go away. </p>\n\t\t\t\t\t<p class=\"body_en\">The test results indicated that Mr. Kodama had been exposed to about 4.6 gray of radiation, in excess of 4.0 gray, the amount regarded as a fifty percent lethal dose. This represents the amount at which half of those exposed would die within two months. </p>\n\t\t\t\t\t<p class=\"body_en\">For many years Mr. Kodama never spoke about his A-bomb experiences. But he came to believe that, having survived, he had a duty to tell as many people as possible that nuclear weapons were inhumane. So he began telling his story. Now he shares his experiences and feelings with others who will continue to convey them as part of a program established by the City of Hiroshima to pass on survivors’ memories. </p>\n\t\t\t\t\t<p class=\"body_en\">When telling of his experiences, he makes use of medical materials such as pictures of chromosomes. “I show objective data that illustrates that radiation harms people’s internal organs, and I try to explain things in a simple, persuasive manner,” he said.</p>\n\t\t\t\t\t<p class=\"body_en\"></p>(Originally published on May 26, 2014)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45790620365,
+                34.387069909555,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45790620365,
+                    34.387069909555,
+                    150,
+                    132.45790620365,
+                    34.387069909555,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en2",
+        "name": "Kingo Kawahara",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Ran freight train carrying wounded out of the A-bombed city</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-ZSDkkAT3Fqw/U6TQsemLd_I/AAAAAAAEkco/_oJOvfWiVTQ/w640-h418-no/%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E7%25B6%2599%25E3%2581%258F%25E3%2582%2599%25E3%2580%2580%25E6%25B2%25B3%25E5%258E%259F%25E8%25AC%25B9%25E5%2590%25BE%25E3%2581%2595%25E3%2582%2593.jpg\"></p><p class=\"body_en\">Overcame ill health and discrimination to work as teacher</p>\n\t\t\t\t<p class=\"body_en\">At the time of the atomic bombing, Kingo Kawahara was a train conductor for Japan’s National Railway. In the aftermath of the blast, he helped carry the wounded on a freight train running on the Geibi Line, bound for Bingotokaichi Station (present-day Miyoshi Station in Miyoshi City). Although he suffered burns to the back of his head and his back, he kept up the spirits of the injured while running the train with the locomotive driver.</p>\n\t\t\t\t<p class=\"body_en\">On August 6, 1945, Mr. Kawahara, who was 19 then, was walking to the switchyard, located on the east side of Hiroshima Station (in today’s Minami Ward) to take his shift as a crew member. Suddenly, from behind, there was a huge white flash and he was blown into the air. After a while, when he raised his head, he found that he was surrounded by darkness and dust. He was about 2.1 kilometers from the hypocenter.</p>\n\t\t\t\t<p class=\"body_en\">Still, he hurried to the switchyard. After finding other crew members who had survived the blast, including a locomotive driver, the pair decided to use the freight train. Mr. Kawahara then went on foot to the next station on the Geibi Line, Yaga Station (in today’s Higashi Ward), to check if the railroad tracks were clear.</p>\n\t\t\t\t<p class=\"body_en\">When the train arrived at Yaga Station, he went to Yaga National School (now Yaga Elementary School in Higashi Ward), near the station, to seek treatment for his burns. But he saw that many of the victims had suffered more serious burns, with even their skin peeling off. “I can’t ask for ointment for my minor burns,” he thought, and decided to leave without treatment.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kawahara and the driver of the freight train stopped five or six times along their route north, picking up the injured alongside the tracks. He doesn’t remember the exact number of passengers they carried, but believes it was around 100. At each station, many people crowded around the train, anxiously seeking information about the safety of family members and friends.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kawahara reached Bingotokaichi, then returned to his house in Mukaihara, part of today’s Akitakata City. He suffered from hair loss, one of the acute symptoms of radiation exposure. The scars from his burns lingered for more than 10 years.</p>\n\t\t\t\t<p class=\"body_en\">He was also the victim of discrimination. At a meeting for an arranged marriage, he was rebuffed with the words, “Radiation is contagious.” He often wished he could flee from his life as an A-bomb survivor and tried not to think about the bombing.</p>\n\t\t\t\t<p class=\"body_en\">After the war, he quit his job as a conductor and became an elementary school teacher, a longtime dream. He retired in 1987, as the principal of Odahigashi Elementary School in Koda Town, part of today’s Akitakata City. After that, he served as a member of the Mukaihara town assembly, and as the principal of a kindergarten in Asakita Ward until March of this year.</p>\n\t\t\t\t<p class=\"body_en\">Today, he lives with his wife and they have seven grandchildren and two great-grandchildren. “I don’t want children to suffer the experiences I did,” he said. “I want them to understand how pointless the war was, and convey that message to the generations to come.” (Sakiko Masuda, Staff Writer)</p>\n\t\t\t\t<p class=\"body_en\">(Originally published on August 26, 2013)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/2.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.47861861127,
+                34.395856245788,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.47861861127,
+                    34.395856245788,
+                    150,
+                    132.47861861127,
+                    34.395856245788,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en3",
+        "name": "Yoshika Sunamoto",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Day after day he fought the disease but never lost his passion for life</p><p class=\"image\"><img src=\"https://lh6.googleusercontent.com/-bCZKMN_fj88/U6TQtYP-DGI/AAAAAAAEkdA/HBnp9-kASHc/w220-h320-no/%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E7%25B6%2599%25E3%2581%258F%25E3%2582%2599%25E3%2580%2580%25E7%25A0%2582%25E5%2585%2583%25E8%2589%25AF%25E9%25A6%2599%25E3%2581%2595%25E3%2582%2593.jpg\"></p><p class=\"body_en\">After the bomb, his body was weak, but he swallowed his tears and devoted himself to work/p><p class=\"body_en\">Suddenly, a strong flash hit him from in front and to the left. He lost consciousness. When he came to, he noticed he was in the ruins of the factory next door. He had been blown there by the blast. Working desperately, he dug himself out of the debris, then pulled out three friends. One friend said, “You’re really hurt.” That was when he found he was covered with blood.</p>\n\t\t\t\t<p class=\"body_en\">Yoshika Sunamoto, 82, was at 14 at the time of the atomic bombing. He was a third-year student at First Hiroshima Prefectural Junior High School (now Kokutaiji High School, located in Naka Ward). On August 6, 1945, he was mobilized to work in a military factory in Funairi Kawaguchi-cho (now in Naka Ward), about 2km from the hypocenter. He was working without a shirt.</p>\n\t\t\t\t<p class=\"body_en\">The flash burned the left side of his body. His left arm suffered a gash 8cm long; he still carries the scar.</p>\n\t\t\t\t<p class=\"body_en\">He went with some friends to Hiroshima First Municipal Girl’s School (now, Funairi High School), which served as the local evacuation center. Later, he sought treatment at an army hospital in Eba (now, Naka Ward).</p>\n\t\t\t\t<p class=\"body_en\">However, the army hospital was full of seriously injured patients. He gave up on treatment, deciding to return to his home in Midori-machi (now, Minami Ward). His way was frequently blocked by fallen houses and fire, but getting a ride across one river in a boat and walking across another at low tide, he finally made it home.</p>\n\t\t\t\t<p class=\"body_en\">A military doctor who was his father’s friend examined his injuries and said they would take six months to heal. That prognosis shocked him so badly he cried all night. He was afraid he would not be well in time to take the entrance examination for the Naval Academy and its Navy officer training.</p>\n\t\t\t\t<p class=\"body_en\">The war ended, and after treatment and recuperation for a half-year, he returned to junior high school. Then, he entered Hiroshima Technical School (now the Faculty of Engineering at Hiroshima University). Anticipating progress in motorization, he joined the Auto Engineering Department. After graduation, he found a job as an engineer at an automobile retailer. </p>\n\t\t\t\t<p class=\"body_en\">However, that summer, while training for his new job at an automobile factory in Saitama Prefecture, he was attacked by a high fever of unknown origin. A persistent temperature higher than 39 degrees forced him to return to Hiroshima.</p>\n\t\t\t\t<p class=\"body_en\">He was unable to work for a year. “Why do I have such a weak body?” Blaming himself for not living up to his own expectations, he cried again and again in frustration.</p>\n\t\t\t\t<p class=\"body_en\">When he did return to work, he had to battle prostate cancer and hypertensive heart disease, both certified as atomic bomb diseases. He served as president of an automobile retail company in Yamaguchi City, working there as advisor until 1998, he retired at age 67. Today he lives with his wife in Fuchu Town, Hiroshima.</p>\n\t\t\t\t<p class=\"body_en\">His advice to youth: “Even if you fail, don’t give up. Keep working to accomplish what you set out to do.” (Sakiko Masuda, Staff Writer)</p>\n\t\t\t\t<p class=\"body_en\">(Originally published on June 11, 2013)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/3.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.441127,
+                34.378855,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.441127,
+                    34.378855,
+                    150,
+                    132.441127,
+                    34.378855,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en4",
+        "name": "Taeko Miyoshi",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Suffered a final parting from her mother, who couldn’t escape</p><p class=\"image\"><img src=\"https://lh5.googleusercontent.com/lBHoPAct2VdKmjfIM4nLoDD92vaHQAaltvyhVNZX-tBS=w294-h446-p-no\"></p><p class=\"body_en\">Accepted an arranged marriage with an A-bomb survivor</p><p class=\"body_en\">“Mom!” Taeko Miyoshi cried, as a stranger carried her away from the scene. Her mother Hisano could only wave with a bloody hand. It was the final parting of mother and daughter.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Miyoshi was 8 years old on August 6, 1945, the day the atomic bomb was dropped on Hiroshima. She was at home in the Higashisenda district (part of present-day Naka Ward) and seated on the floor with her mother and grandmother, Tsune. Their house was located about 1.2 kilometers from the hypocenter. </p>\n\t\t\t\t<p class=\"body_en\">At the instant “a big fireball came toward us,” she was blown into the air. When she came to, she discovered that she was outside, on the ground. Ms. Miyoshi, her mother, and her grandmother had all been hit by flying fragments of glass and were covered in blood. There was a gaping hole in her mother’s throat.</p>\n\t\t\t\t<p class=\"body_en\">Her mother tried to speak, but the breath was escaping through the hole in her throat and she was unable to sound out words. Ms. Miyoshi recalled, “It may be that some internal organ was protruding through the hole as the wound bled. It was a hopeless situation.”</p>\n\t\t\t\t<p class=\"body_en\">Fire then began to stalk the house. A man passing by said to Ms. Miyoshi, “You’ll die if you stay here,” and he picked her up and carried her to some streetcar tracks, about 200 meters away. “I didn’t want to be separated from my mother,” she said. “That was the last time I saw her.” Her mother’s remains were never found. Her grandmother was brought to a temple in the Kaita district and cared for there, but a year later she died of a high fever of unknown cause.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Miyoshi was then carried by truck to the bank of a river, probably the Ota River. She spent the night there in the open air. The next day, she was reunited with a girl from her neighborhood, then made the trek to an area known as Hataka Village (part of today’s Aki Ward), where her grandparents’ house was located. “I think I was given a ride in a truck,” she said. “But I don’t remember clearly.”</p>\n\t\t\t\t<p class=\"body_en\">After that, she was brought to Hataka National School (now, Hataka Elementary School), which was serving as a relief station in the aftermath of the bombing. Laid on a classroom floor, she soon fell unconscious. When she came to, she learned that the war was over.</p>\n\t\t\t\t<p class=\"body_en\">At night in the classroom, she heard voices crying out in pain, even calling for death. “In the moonlight, they looked like ghosts,” she recalled. “It made me lonely and scared.” When morning came, about half of them were dead.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Miyoshi’s aunt took her from the school to her house in Etajima (now, Etajima City), where she began her recovery that September. The following summer, her father, Kuwaichi, ended his military service and, together, father and daughter moved into a cottage owned by relatives in Hataka Village.</p>\n\t\t\t\t<p class=\"body_en\">Because there were rumors that “A-bombed mothers would bear abnormal children,” Ms. Miyoshi decided that she would never marry. However, she later received a proposal in an arranged marriage. When she found out that the man was an A-bomb survivor, too, she agreed to marry him, hoping that they would understand one another since they were both survivors.</p>\n\t\t\t\t<p class=\"body_en\">Her husband Chuzo, 81, experienced the bombing while working as a “mobilized student” for the war effort in the Kasumicho district (part of present-day Minami Ward). He became an orphan after his parents and older brother were killed, and was cared for by his uncle, who lived in the countryside of Hiroshima Prefecture, in a place called Daiwa (now part of Mihara City).</p>\n\t\t\t\t<p class=\"body_en\">“If the atomic bombing hadn’t happened, I could have lived a normal life,” she said. This is why she hopes “young people will do their best so they can live in peace.” (Rie Nii, Staff Writer)</p>\n\t\t\t\t<p class=\"body_en\">(Originally published on September 11, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/4.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45747955444,
+                34.379228892266,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45747955444,
+                    34.379228892266,
+                    150,
+                    132.45747955444,
+                    34.379228892266,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en5",
+        "name": "Harue Mizuta",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">A-bomb shattered the work she loved</p><p class=\"image\"><img src=\"https://lh6.googleusercontent.com/-amhNy5cN28A/U6TQrlJVeLI/AAAAAAAEkcY/WTUBquG_ry8/w560-h640-no/%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E7%25B6%2599%25E3%2581%258F%25E3%2582%2599%25E3%2580%2580%25E6%25B0%25B4%25E7%2594%25B0%25E6%2598%25A5%25E6%259E%259D%25E3%2581%2595%25E3%2582%2593.jpg\"></p>p class=\"body_en\">War prevented hopes and desires</p><p class=\"body_en\">When Harue Mizuta, now 88, was in first grade, she admired a female teacher so much that this motivated her to pursue the dream of becoming a teacher herself. But at the age of 20, four years after she began teaching at Kanzaki National School (now, Kanzaki Elementary School in Naka Ward, Hiroshima), her career as a teacher was shattered.</p>\n\t\t\t\t<p class=\"body_en\">It was summer, the morning of August 6, 1945. Ms. Mizuta was at the school after spending the night there on watch. After eating breakfast, she was washing the dishes of the other teachers and the principal who had been on duty the night before, too. The morning meeting was scheduled for 8:15 in the teachers’ room so she was in a hurry. Then suddenly the ceiling collapsed, shards of glass were flying through the air, and she fell unconscious.</p>\n\t\t\t\t<p class=\"body_en\">She was pulled from the wreckage of the building by the principal or perhaps a civil defense volunteer at the school, then moved to an air raid shelter. But the principal told her to head to an evacuation site. Along the way, she came across a student who had graduated from Kanzaki National School and was now attending Hiroshima Jissen High School (today’s Suzugamine Junior High and High School), located in Inokuchi Village (part of present-day Nishi Ward). Ms. Mizuta took the girl’s hand and they walked on toward Itsukaichi (now part of Saeki Ward), which was a designated evacuation site.</p>\n\t\t\t\t<p class=\"body_en\">Before long, black rain fell from the sky. The thick, sticky liquid clung to her face, bloodied by glass fragments and roof tiles, and her white blouse and monpe (traditional Japanese work pants). But they continued walking.</p>\n\t\t\t\t<p class=\"body_en\">When they finally arrived in Itsukaichi, Ms. Mizuta fainted. How much time passed, Ms. Mizuta doesn’t know, but a woman from a nearby house told her that the whole transportation system had been destroyed. So she spent the next two days crossing a mountain pass, on foot, to her home in Higashino (part of present-day Asaminami Ward).</p>\n\t\t\t\t<p class=\"body_en\">Her mother, Akio, went searching for her at Kanzaki National School. When she found Ms. Mizuta’s name on a list of the missing, affixed to the school’s rear gate, she thought her daughter had died in the blast. Her mother was overjoyed, then, when Ms. Mizuta appeared at home. “You made it back!” her mother said, patting her shoulders and legs. “You need to rest now.”</p>\n\t\t\t\t<p class=\"body_en\">A neighbor applied Mercurochrome to the cuts on her face. Later, however, she suffered hair loss and bloody stools. “I thought I was dying,” she recalled.</p>\n\t\t\t\t<p class=\"body_en\">She often moved to cooler parts of the house to rest, her mother tending to her. A short while later, she married her husband, Hisato, who was demobilized from the military. “I didn’t do any work to help repay my parents,” she said with regret.</p>\n\t\t\t\t<p class=\"body_en\">“Today you can study and go to college,” she said. “You can take peace studies. You can have hope and do anything that you want to do. But we weren’t able to do any of these things.” She hopes, therefore, that peace will be preserved. (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on November 25, 2013)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/5.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44549711282,
+                34.38733433322,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44549711282,
+                    34.38733433322,
+                    150,
+                    132.44549711282,
+                    34.38733433322,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en6",
+        "name": "Shoso Kawamoto",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">His mother told him: “Don’t give up”</p><p class=\"image\"><img src=\"https://lh5.googleusercontent.com/-LWS72h7tIDc/U6TQojbGXkI/AAAAAAAEkbs/c_2i0IWy0Vc/w520-h640-no/%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E7%25B6%2599%25E3%2581%258F%25E3%2582%2599%25E3%2580%2580%25E5%25B7%259D%25E6%259C%25AC%25E7%259C%2581%25E4%25B8%2589%25E3%2581%2595%25E3%2582%2593.jpg\"></p><p class=\"body_en\">Looking for a place to die, his life was reborn</p><p class=\"body_en\">Shoso Kawamoto, 78, lost six members of his family—his parents and siblings—to the atomic bombing. But the words his mother Satsuki often said to him when she was alive became his anchor, enabling him to endure his hardships after the war: “Don’t give up.”</p>\n\t\t\t\t<p class=\"body_en\">When the atomic bomb was dropped on August 6, 1945, Mr. Kawamoto was a sixth grader at Fukuromachi National School (present-day Fukuromachi Elementary School in Naka Ward). His house was located in Shioyacho (part of today’s Naka Ward), near the hypocenter, but he had been evacuated with other schoolchildren to a temple in the village of Kamisugi (now part of Miyoshi City), north of Hiroshima, before the bombing took place. That day, while working in a field, he noticed a white cloud rising in the sky in the direction of Hiroshima.</p>\n\t\t\t\t<p class=\"body_en\">In the evening, he learned that the city center had been completely destroyed. Three days later, Tokie, a sister who was five years older and had been working at Hiroshima Station when the atomic bomb exploded, came to the temple to pick him up.</p>\n\t\t\t\t<p class=\"body_en\">Tokie told him that their mother and younger siblings had died at home, embracing one another. The whereabouts, however, of his father and another elder sister, who were both helping to dismantle homes to create a fire lane, were unknown. Even to this day, they are unaccounted for.</p>\n\t\t\t\t<p class=\"body_en\">After the war, Mr. Kawamoto lived with Tokie in the vicinity of Hiroshima Station. But Tokie died of leukemia in February 1946. After that, he became a live-in worker, helping to make soy sauce in the Tomo district (part of present-day Asaminami Ward).</p>\n\t\t\t\t<p class=\"body_en\">At the age of 23, he proposed marriage to a woman. Though his heart was set on marrying her, her parents expressed concern about the children they would bear and rebuffed his proposal. “We can’t let our daughter marry an atomic bomb survivor,” they told him. Mr. Kawamoto felt as if his whole world had turned black. He decided to live alone and he fled the soy sauce maker.</p>\n\t\t\t\t<p class=\"body_en\">He drifted from job to job at a series of transportation companies, gambling away most of his wages. In his early 30s, he was unable to pay a 2,000-yen traffic ticket and so he lost his driver’s license. As a result, he could no longer work at his place of employment, and he saw no reason to go on living. Looking for a place to end his misery, he boarded a train and sought to go as far as he could with 640 yen, all the money he had.</p>\n\t\t\t\t<p class=\"body_en\">He got off the train at Okayama Station, in the city of Okayama, and saw a poster in front of the station calling for live-in workers at a noodle shop. Gazing at the poster, he thought he heard his mother’s voice telling him, “You can do it. Don’t give up.” And so, at that moment, he found the determination to start his life over again.</p>\n\t\t\t\t<p class=\"body_en\">At the age of 50, he became president of a food service company. Then, when he turned 70, a friend from his elementary school days contacted him and said, “We’ve all been worried about you.” These words made him miss Hiroshima, and so he finally returned to his hometown.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kawamoto now serves as a guide at Hiroshima Peace Memorial Museum and shares his account of the atomic bombing to visitors there. He also makes paper airplanes in the way his mother once taught him and distributes these airplanes along with a paper crane. To date, he has given away some 70,000 paper airplanes and cranes.</p>\n\t\t\t\t<p class=\"body_en\">In the aftermath of the atomic bombing, he came across many A-bomb orphans in front of Hiroshima Station who were forced to choose between helping criminal gangs to survive or dying from hunger. These children were unable to play or go to school, even if they wanted to. “I don’t want young people today to face the same kind of suffering,” he said. “I want people to know the hardship that the atomic bomb produced.” His wishes, imbued in his paper cranes, are now spreading their wings in the world.</p><p class=\"body_en\">(Originally published on December 24, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/6.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.84450277778,
+                34.814361111111,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.84450277778,
+                    34.814361111111,
+                    150,
+                    132.84450277778,
+                    34.814361111111,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en7",
+        "name": "Sayoko Fujioka",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Daughter’s death at six months leaves brief memories</p><p class=\"image\"><img src=\"https://lh5.googleusercontent.com/-k2FkWj6uzxw/U6TQvFROiJI/AAAAAAAEkdc/jhJUoWCNNAo/w542-h640-no/%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E7%25B6%2599%25E3%2581%258F%25E3%2582%2599%25E3%2580%2580%25E8%2597%25A4%25E5%25B2%25A1%25E5%25B0%258F%25E5%25A4%259C%25E5%25AD%2590%25E3%2581%2595%25E3%2582%2593.jpg\"></p><p class=\"body_en\">Hawaiian-born, A-bombed in Hiroshima</p><p class=\"body_en\">Sayoko Fujioka (nee, Morikubo), 89, was born and raised in the United States, in Hawaii. At the age of 14, she moved to Hiroshima, her father’s hometown. She was 22 when the atomic bomb was dropped on Hiroshima. She experienced the bombing in the Sendamachi district, part of today’s Naka Ward, about 1.5 kilometers from the hypocenter. Her first daughter, Shigeko, was just six months old at the time and died in the bombing’s aftermath. “The atomic bombing was unforgivable, but it couldn’t be avoided,” Ms. Fujioka said. “It was the result of the policies of the United States and Japan.” </p>\n\t\t\t\t<p class=\"body_en\">Her father had immigrated to Hawaii, where he was working as a tailor. He wanted his daughter to be educated in Japan, so after she graduated from junior high school in Hawaii, in March 1937, she traveled to Japan. The voyage, on the passenger ship Taiyomaru, took two weeks. In Hiroshima, she enrolled as a second-year student at Yasuda Girls’ High School, and continued there through higher grades.</p>\n\t\t\t\t<p class=\"body_en\">When she was living in Hawaii, she attended a Japanese school in addition to the local school, so she didn’t have any difficulty communicating in Japanese. “I was surprised, though, that boys and girls weren’t allowed to play together,” she said.</p>\n\t\t\t\t<p class=\"body_en\">After finishing school, she got married in November 1941. She was 19. She tried sending a wedding photo to her father in Hawaii, but the ship carrying the photo was attacked by the United States and sank, so the picture could not be delivered.</p>\n\t\t\t\t<p class=\"body_en\">Her father was far away when the atomic bomb was dropped. At 8:15 a.m. on August 6, 1945, Ms. Fujioka was at home in Sendamachi with her son, her daughter, and her mother-in-law, as well as her sister-in-law, brother-in-law, and niece. They were having breakfast while little Shigeko was asleep in a rattan bed in the garden. Her husband had already left home to work at a military supply depot (the building now houses the Hiroshima City Museum of History and Traditional Crafts), located in the Ujina district.</p>\n\t\t\t\t<p class=\"body_en\">When the atomic bomb exploded, there was a flash, like lightning, and the ceiling of their house caved in. Another niece had been on her way to school, but she hurried home and all eight family members fled. Just after they crossed the Minami Bridge, which links the districts of Senda and Yoshijima, the bridge caught fire and collapsed.</p>\n\t\t\t\t<p class=\"body_en\">The night of the bombing, they stayed at the airport in Yoshijima. The next day, they went on foot, crossing three rivers, to reach Ms. Fujioka’s paternal grandparents’ house in Furue, part of present-day Nishi Ward.</p>\n\t\t\t\t<p class=\"body_en\">On September 7, about one month after the atomic bombing, amid the chaos of the post-war period, Ms. Fujioka’s daughter Shigeko died after vomiting a large amount of milk. With no doctors available, she hadn’t even been aware that her daughter was in poor health. “I don’t have a photo of Shigeko, or a piece of clothing, nothing,” she said in a choked voice.</p>\n\t\t\t\t<p class=\"body_en\">After the war, while raising her children and managing the household, she took lessons in the Japanese tea ceremony. She then went on to teach tea ceremony lessons until this past March. Making use of her English ability, she also organized tea ceremony lessons for the international community in Hiroshima. She has traveled to the United States, Germany, France, China, and other countries to take part in international exchange through the tea ceremony. Ms. Fujioka urges young people to “Stamp out prejudice and make friends with the people of all nations.” (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on July 10, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/7.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45285781855,
+                34.380430208915,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45285781855,
+                    34.380430208915,
+                    150,
+                    132.45285781855,
+                    34.380430208915,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en8",
+        "name": "Hideo Kimura",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\">\n\t\t\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Conveying a “hell on earth” through picture story shows\n</p>\n\t\t\t\t\t\t\t<p class=\"image\"><img src=\"https://lh5.googleusercontent.com/mY5awG0hihDxjFd2hDgCyUt3PK50hgB0tQjzeFdTfhq5=w262-h436-p-no\"></p>\n\t\t\t\t\t\t\t<p class=\"body_en\">Hopes children long remember how towns and bodies are burned in war</p>\n\t\t\t\t\t\t\t<p class=\"body_en\">Hideo Kimura, 80, creates “picture story shows” based on the atomic bombing and presents these at kindergartens and elementary schools. With the skin on his neck and arms scarred from burns, he continues to convey the message, to the next generation, that the hell on earth he experienced must never be repeated.</p>\n\t\t\t\t\t\t<p class=\"body_en\">In 1945, he was 12 years old, in his first year at Kusatsu National Advanced School (now Kusatsu Elementary School in Nishi Ward, Hiroshima). On the morning of August 6, after helping his father, a fisherman, with his work, he went off to school, where students were gathering before heading to the Koamicho area (part of present-day Naka Ward) to join in creating a fire lane by tearing down buildings.</p>\n\t\t\t\t\t\t<p class=\"body_en\">Taking part in the work were 167 students from the school, including Mr. Kimura, all in pants, white short-sleeved shirts, and straw hats on their heads. As they were walking along a river bank around the Kannon area (in today’s Nishi Ward, about 1.2 to 1.7 kilometers from the hypocenter), three B-29 bombers buzzed overhead. One of the planes dropped something shiny, and then he saw a great flash, followed by darkness.</p>\n\t\t\t\t\t\t\t<p class=\"body_en\">He crouched down, covering his head with his arms. Seconds later, he was engulfed in burning heat. He and his friends weren’t sure where to go, so they decided to return to school. He then realized that he had lost the straw sandals that had been on his feet prior to the blast.</p>\n\t\t\t\t\t\t\t<p class=\"body_en\">At an irrigation ditch in Takasu (now part of Nishi Ward), he stopped to wash himself, and the skin on his face peeled right off. The skin on his arms, too, was dangling down from his flesh.</p>\n\t\t\t\t\t\t\t<p class=\"body_en\">A few days after the bombing, he suffered hair loss and vomiting. He recalled, “I was worried every day, thinking I would die, so I couldn’t sleep.” It took more than six months for the burns on his face, neck, and arms to heal. Even then, the new layer of skin was so tight he could no longer hold a baseball. When his grip was too strong, the skin would tear and bleed. Three to five years later, the scarring from his burns rose like “beef steak” and became keloids.</p>\n\t\t\t\t\t\t\t<p class=\"body_en\">Around ten years ago, after turning 70, he began drawing scenes of his A-bomb experience when Hiroshima Peace Memorial Museum and other organizations put out a call for pictures of the atomic bombing. Mr. Kimura’s work has been met with appreciation, with a painting he did on porcelain appearing at Saioji Temple in Nakajimacho, Naka Ward.</p>\n\t\t\t\t\t\t\t<p class=\"body_en\">Around 2007, he started making his picture story shows based on the atomic bombing. To date, he has created seven stories about nuclear weapons and war, conveying not only his own A-bomb experience, but also the experience of his brother, who was five years older than him and died in the blast while at Hirose National School (in today’s Naka Ward), and the local Volunteer Army Corps. The theme of his seventh story, now in progress, is the outbreak of a third world war.</p>\n\t\t\t\t\t\t\t<p class=\"body_en\">“When there is war, towns and bodies are burned, and children are separated from their parents—you would be all alone. For these reasons, we must never have war,” Mr. Kimura said. He conveys this message while presenting his picture story shows. He hopes that when the children are grown, they will remember the words of the picture-story-show man. (Rie Nii, Staff Writer)</p>\n\t\t\t\t\t\t\t<p class=\"body_en\">(Originally published on February 11, 2013)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/8.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44300377852,
+                34.393698228254,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44300377852,
+                    34.393698228254,
+                    150,
+                    132.44300377852,
+                    34.393698228254,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en9",
+        "name": "Michiko Hinokida",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Rage at losing her twin sister</p><p class=\"image\"><img src=\"https://lh6.googleusercontent.com/RS5NIpjwc-XGV4y6Yix862-sIMSgIlOUBAdyFpEgBfaN=w236-h340-p-no\"></p><p class=\"body_en\">Teach the preciousness of life</p><p class=\"body_en\">Michiko Hinokida, 89, lost her older twin sister, Taeko, to the atomic bombing. Like two peas in a pod, they had both become Japanese teachers and were working at different schools at the time. But on the day of the bombing, Taeko was outside, supervising students as they helped dismantle homes to create a fire lane in the event of air raids, and suffered burns all over her body when the bomb exploded. She died thinking of the safety of her students.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Hinokida, the younger twin, was a teacher at Hiroshima Jissen Girls’ High School in the village of Inokuchi (today, Suzugamine Girls’ Junior High School and High School in Nishi Ward). She was at a teachers’ meeting that morning when she suddenly saw a great flash and then, a moment later, a loud boom. She hurried to her classroom and found the students crying out in fright.</p>\n\t\t\t\t<p class=\"body_en\">Worried about her family, that evening she received permission to return home to Koicho (in present-day Nishi Ward). As she walked toward home, her anxiety grew each time she passed a person with serious burns. She prayed for her sister’s safety along the way and finally reached their house.</p>\n\t\t\t\t<p class=\"body_en\">Half the house was destroyed, and inside, she found Taeko lying on the floor. Taeko was burned so badly that Ms. Hinokida was unable to tell whether this was really her sister or not until she heard Taeko’s voice.</p>\n\t\t\t\t<p class=\"body_en\">Taeko was a teacher at Aki Girls’ High School, located in Uchikoshicho (part of present-day Nishi Ward, though the school was later closed). Because she and her students had been mobilized to help with the building demolition work, she was in the Koamicho area (now part of Naka Ward) when the A-bomb attack took place. Ms. Hinokida listened as her sister spoke in halting phases: “When I came to, I didn’t see any of the students. There was nothing I could do. I wanted to die right there, but I couldn’t, so I came home.” Taeko’s voice still lingers in her mind.</p>\n\t\t\t\t<p class=\"body_en\">Until that point, Ms. Hinokida had secretly been hoping that the war would soon end. However, her feelings changed when she witnessed her sister’s terrible injuries and her death. “I then wanted to attack the enemy,” she admits. “Victims can quickly come to have the feelings of aggressors,” she added. “That’s the nature of war. We should never wage war because it deprives people of rational thought.”</p>\n\t\t\t\t<p class=\"body_en\">After the war, she worked as a teacher at Suzugamine Girls’ Junior High School and High School. She told her students: “Don’t think only about yourself. Think about others, too. Have compassion for other people and cherish life.”</p>\n\t\t\t\t<p class=\"body_en\">These days, she shares her experience of the atomic bombing at preschools and other places in her neighborhood. It brings her joy when children in her area see her and call out to her.</p>\n\t\t\t\t<p class=\"body_en\">“The fact that they remember my name means that they’ve grasped the importance of peace, even if just a little. Those children give me hope for the future,” she said with a smile. (Sakiko Masuda, Staff Writer)\n</p><p class=\"body_en\">(Originally published on April 22, 2013)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/9.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.37434243421,
+                34.371729879346,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.37434243421,
+                    34.371729879346,
+                    150,
+                    132.37434243421,
+                    34.371729879346,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en10",
+        "name": "Narumi Shimohiro",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Agony of suffering both atomic bombings</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-Cq7jLq9sASU/U6TQn3GVNQI/AAAAAAAEkfM/AuPOBuPVvRo/w226-h320-no/%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E7%25B6%2599%25E3%2581%258F%25E3%2582%2599%25E3%2580%2580%25E4%25B8%258B%25E5%25BA%2583%25E9%25B3%25B4%25E7%25BE%258E%25E3%2581%2595%25E3%2582%2593.jpg\"></p><p class=\"body_en\">Family remains brought to Nagasaki / Contemplated suicide at grave site<p class=\"body_en\">“Why did I have to experience such a terrible thing twice?” Narumi Shimohiro (nee Watanabe) is now 79 years old. With her eyes cast down and filling with tears, she slowly spoke about the day the atomic bomb was dropped on the city of Hiroshima.</p>\n\t\t\t\t<p class=\"body_en\">On August 6, 1945, Ms. Shimohiro experienced the atomic bombing while in Misasa-honmachi (part of present-day Nishi Ward), about 2 kilometers from the hypocenter. Her mother Yae, then 38, her younger sister Tamie, 3, and her great-grandmother Sawa, 86, all perished in the blast. On August 15, Ms. Shimohiro and her elder sister Misako, then 15, traveled to the city of Nagasaki to bring their remains to the family grave. While in Nagasaki, they were confronted by the radiation from the second atomic bomb, which had been dropped on Nagasaki on August 9.</p>\n\t\t\t\t<p class=\"body_en\">On the morning of August 6, Ms. Shimohiro, who was a first-year student in junior high school, was on her way to Hirose National School from her home in Hirose-motomachi, located about 900 meters from the hypocenter, to work for the war effort as a mobilized student. However, when she arrived at the school and it looked empty, she hurried on to a factory in Misasa-honmachi, the site of her work assignment. When the atomic bomb exploded, the building came down on top of her, but a man helped pull her out from under the wreckage.</p>\n\t\t\t\t<p class=\"body_en\">She headed for home, and reached as far as the Yokogawa district, but fierce fire prevented her from getting any closer. She feared that her mother, younger sister, and great-grandmother might have died in the disaster. Meanwhile, she came across classmates who had suffered severe burns and injuries. One close friend, burned badly, passed away while uttering these last words to Ms. Shimohiro: “Live a long life for me.” </p>\n\t\t\t\t<p class=\"body_en\">One year before the bombing, Ms. Shimohiro’s father, Fujiichi, had been transferred from the Nagasaki shipyard of Mitsubishi Heavy Industries to the Hiroshima shipyard, and her whole family moved to Hiroshima.</p>\n\t\t\t\t<p class=\"body_en\">In the aftermath of the blast, she didn’t know what had become of her father and elder sister. Two days later, on August 8, she was reunited with them near her house. On the site of the burned rubble, where the house had stood, they dug out the remains of her mother, her younger sister, and her great-grandmother.</p>\n\t\t\t\t<p class=\"body_en\">On the morning of August 15, Ms. Shimohiro boarded a train with her elder sister, carrying the remains of the three lost family members. Bound for Nagasaki, they were forced to get off the train two stops before the city’s main train station. Disembarking at Michinoo station, they walked across the hypocenter area to reach the Iwasemichi district, where the family grave was located. After returning to Hiroshima, they suffered complete hair loss and continuous vomiting as a result of the radiation they were exposed to in Hiroshima and Nagasaki.</p>\n\t\t\t\t<p class=\"body_en\">“I hate the United States,” Ms. Shimohiro said. “The hatred I feel will never go away.” When she was young, a boyfriend’s parents told her: “Because you’re an atomic bomb survivor, you shouldn’t get married.” Hearing this, she thought of committing suicide at the family grave in Nagasaki. “I didn’t have a single good thing in my life back then,” she recalled.</p>\n\t\t\t\t<p class=\"body_en\">She has spoken little about her past to others. “But the fact that I’ve survived means that I have to convey my A-bomb experience to the next generation.” She hopes that the younger generation will make an effort to form friendships with others so that ill will can be overcome. (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on April 10, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/10.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4533,
+                34.4127,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4533,
+                    34.4127,
+                    150,
+                    132.4533,
+                    34.4127,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en11",
+        "name": "Sachiko Masuno",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Indelible scars on the body, in the mind</p><p class=\"image\"><img src=\"data/photo/yukiko_masuno.jpg\"></p><p class=\"body_en\">Operating streetcars during the war: Helping each other reach an evacuation site</p><p class=\"body_en\">The atomic bombing left Sachiko Masuno (maiden name, Konishi), now 81, with 114 scars on her back. She was 15 years old at the time of the bombing. Flying fragments of glass pierced her entire back and she suffered a bad burn to her right leg. In the aftermath of the blast, her cousin Toyoko Kodama (maiden name, Ameda), 83, who, like Ms. Masuno, was born in the town of Miyoshi, brought her to an evacuation site, practically having to drag her there.</p>\n\t\t\t\t<p class=\"body_en\">Both women were students at a girls' school, located in Minami Ward, that was established by the Hiroshima Electric Railway Company during the war, because many men had been drafted to fight on the front lines. The girls studied half the day, then worked as drivers or conductors on the city's streetcars for the other half. Near the end of the war, however, their lessons dropped off and they were working on the streetcars most of the day.</p>\n\t\t\t\t<p class=\"body_en\">When the atomic bomb exploded, at 8:15 a.m. on August 6, 1945, Ms. Kodama was operating a streetcar, moving in the direction of Ujina Port and approaching the Miyukibashi Bridge. The moment she opened the streetcar door, she was blown from the vehicle. After coming to, she found herself in an air raid shelter. Her head was bleeding.</p>\n\t\t\t\t<p class=\"body_en\">Meanwhile, Ms. Masuno worked until midnight on August 5, and she was scheduled to start working again from 5:30 a.m. on August 6. But she had a bad stomachache that morning and took the day off. She was sleeping in the dormitory when something struck her head and she woke up. The ceiling was gone and there was dark rubble and dust around her. She fled to the Kyobashigawa River, near the dormitory, and was cooling the burn on her leg when she realized that her back was bleeding profusely. </p>\n\t\t\t\t<p class=\"body_en\">Following the instructions of school officials, the two girls hurried to Kanda Shrine in Ujina and reunited there. That evening, they moved to Zissen Girls' High School in the village of Inokuchi (now, part of Nishi Ward), which had been designated the evacuation site for the Hiroshima Electric Railway. In only her bare feet, Ms. Masuno was walking down the hot road, suffering the pain of her wounded back and leg. Again and again she would stop and sit, saying, \"I'm ready to die, so just leave me here and go on.\" But Ms. Kodama urged her to keep going, telling her \"Don't talk like that; you have to fight,\" and helped her reach the evacuation site.</p>\n\t\t\t\t<p class=\"body_en\">There, in a hallway of the school, Ms. Masuno lay on her stomach and endured the pain in her back. Ms. Kodama, with a bandage wrapped around her head, went back to work on August 9, serving on a streetcar that had started running again between Koi and Nishitenma. She also helped carry the bodies of those who died at the evacuation site to be cremated out on a hill behind the building.</p>\n\t\t\t\t<p class=\"body_en\">By the spring of 1948, Ms. Masuno had recovered from her injuries and began working in a cotton mill in the city of Himeji in Hyogo Prefecture. While bathing with coworkers in a company dormitory, she heard whispers about the scars on her back. When asked about them, she answered, \"I was in Hiroshima when it was bombed.\" Her coworkers quickly left the room over fears that they would be \"infected.\" She was left distraught and in tears, thinking, \"If only there had been no war, no atomic bomb...\"</p>\n\t\t\t\t<p class=\"body_en\">Today there is the plight of the people of Fukushima, who themselves are suffering from groundless rumors due to the accident at the Fukishima No. 1 nuclear power plant. Ms. Masuno empathizes with their pain, saying, \"They're not responsible for that situation.\" As for the young people of Hiroshima, she hopes they will give the city their support and help hand down Hiroshima's legacy. (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on November 28, 2011)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/11.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46367384846,
+                34.376270726041,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46367384846,
+                    34.376270726041,
+                    150,
+                    132.46367384846,
+                    34.376270726041,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en12",
+        "name": "Toyoko Kodama",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Indelible scars on the body, in the mind</p><p class=\"image\"><img src=\"data/photo/yukiko_masuno.jpg\"></p><p class=\"body_en\">Operating streetcars during the war: Helping each other reach an evacuation site</p><p class=\"body_en\">The atomic bombing left Sachiko Masuno (maiden name, Konishi), now 81, with 114 scars on her back. She was 15 years old at the time of the bombing. Flying fragments of glass pierced her entire back and she suffered a bad burn to her right leg. In the aftermath of the blast, her cousin Toyoko Kodama (maiden name, Ameda), 83, who, like Ms. Masuno, was born in the town of Miyoshi, brought her to an evacuation site, practically having to drag her there.</p>\n\t\t\t\t<p class=\"body_en\">Both women were students at a girls' school, located in Minami Ward, that was established by the Hiroshima Electric Railway Company during the war, because many men had been drafted to fight on the front lines. The girls studied half the day, then worked as drivers or conductors on the city's streetcars for the other half. Near the end of the war, however, their lessons dropped off and they were working on the streetcars most of the day.</p>\n\t\t\t\t<p class=\"body_en\">When the atomic bomb exploded, at 8:15 a.m. on August 6, 1945, Ms. Kodama was operating a streetcar, moving in the direction of Ujina Port and approaching the Miyukibashi Bridge. The moment she opened the streetcar door, she was blown from the vehicle. After coming to, she found herself in an air raid shelter. Her head was bleeding.</p>\n\t\t\t\t<p class=\"body_en\">Meanwhile, Ms. Masuno worked until midnight on August 5, and she was scheduled to start working again from 5:30 a.m. on August 6. But she had a bad stomachache that morning and took the day off. She was sleeping in the dormitory when something struck her head and she woke up. The ceiling was gone and there was dark rubble and dust around her. She fled to the Kyobashigawa River, near the dormitory, and was cooling the burn on her leg when she realized that her back was bleeding profusely. </p>\n\t\t\t\t<p class=\"body_en\">Following the instructions of school officials, the two girls hurried to Kanda Shrine in Ujina and reunited there. That evening, they moved to Zissen Girls' High School in the village of Inokuchi (now, part of Nishi Ward), which had been designated the evacuation site for the Hiroshima Electric Railway. In only her bare feet, Ms. Masuno was walking down the hot road, suffering the pain of her wounded back and leg. Again and again she would stop and sit, saying, \"I'm ready to die, so just leave me here and go on.\" But Ms. Kodama urged her to keep going, telling her \"Don't talk like that; you have to fight,\" and helped her reach the evacuation site.</p>\n\t\t\t\t<p class=\"body_en\">There, in a hallway of the school, Ms. Masuno lay on her stomach and endured the pain in her back. Ms. Kodama, with a bandage wrapped around her head, went back to work on August 9, serving on a streetcar that had started running again between Koi and Nishitenma. She also helped carry the bodies of those who died at the evacuation site to be cremated out on a hill behind the building.</p>\n\t\t\t\t<p class=\"body_en\">By the spring of 1948, Ms. Masuno had recovered from her injuries and began working in a cotton mill in the city of Himeji in Hyogo Prefecture. While bathing with coworkers in a company dormitory, she heard whispers about the scars on her back. When asked about them, she answered, \"I was in Hiroshima when it was bombed.\" Her coworkers quickly left the room over fears that they would be \"infected.\" She was left distraught and in tears, thinking, \"If only there had been no war, no atomic bomb...\"</p>\n\t\t\t\t<p class=\"body_en\">Today there is the plight of the people of Fukushima, who themselves are suffering from groundless rumors due to the accident at the Fukishima No. 1 nuclear power plant. Ms. Masuno empathizes with their pain, saying, \"They're not responsible for that situation.\" As for the young people of Hiroshima, she hopes they will give the city their support and help hand down Hiroshima's legacy. (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on November 28, 2011)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/12.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45829953478,
+                34.377160316362,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45829953478,
+                    34.377160316362,
+                    150,
+                    132.45829953478,
+                    34.377160316362,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en13",
+        "name": "Tetsuhiko Ohno",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Searching for old friends since the day of the A-bombing</p><p class=\"image\"><img src=\"data/photo/tetsuhiko_ohno.jpg\"></p><p class=\"body_en\"></p><p class=\"body_en\">Happy life with grandchildren, but hopes remain to reunite with schoolmates</p><p class=\"body_en\">Tetsuhiko Ohno, 79, was 12 years old and a student of Misasa National Advanced School in 1945. At 8:15 on the morning of August 6, the moment the atomic bomb was dropped on the city of Hiroshima, he was walking through the Tokamachi district, part of present-day Naka Ward. He and his classmates were heading, two abreast, toward the site where they were mobilized to work, helping to dismantle buildings to create fire lanes in the event of air attacks. They were about 700 meters from the hypocenter when there was a sudden flash, and he lost consciousness.</p>\n\t\t\t\t<p class=\"body_en\">When he came to, he saw that the sky had changed dramatically. Before the flash, it was a fine day, but now darkness swallowed everything around him. By chance, he came across the tracks of the Hiroshima Electric Railway and dashed along them, running for his life from the fires blazing nearby.</p>\n\t\t\t\t<p class=\"body_en\">When he made it back to his house in the Yokogawa area, in today’s Nishi Ward, he found that it had burned to the ground. He noticed for the first time that he was nearly naked when a neighbor pointed it out: his clothes were tattered and he had lost his air-raid hood and water bottle. He had also suffered burns to the back of his head, his left leg, and his left arm.</p>\n\t\t\t\t<p class=\"body_en\">At the air-raid shelter in the neighborhood, where his family had planned to flee when facing an emergency, he was able to reunite with his mother and younger brother. At the time of the blast, they were at home, along with his little sister Nobuyo, who was just two. His mother and brother had managed to escape, but Nobuyo was trapped in the burning house and died. His father, who was working at a printing plant and survived, returned a day or two later.</p>\n\t\t\t\t<p class=\"body_en\">Meanwhile, Mr. Ohno was struck by the effects of “acute radiation syndrome” on the evening of the bombing. He began vomiting and bleeding from his nose and his gums. By the end of August, all his hair had fallen out. He suffered from a high fever and terrible diarrhea.</p>\n\t\t\t\t<p class=\"body_en\">For about a week, Mr. Ohno lay in the air-raid shelter and in a hut close by. During that time he heard voices, as if in a chorus, with survivors crying “Please give me water!” and others shouting “Don’t give them water! They’ll die!” </p>\n\t\t\t\t<p class=\"body_en\">A few days after the bombing, he got a rice ball from a distribution of food. He still clearly recalls the wonderful taste of that rice.</p>\n\t\t\t\t<p class=\"body_en\">His family searched the wreckage for posts and iron sheets, cobbling together a shack near the site where their house had stood. They lived there until the fall, when they moved to his paternal grandparents’ house in Ujina, part of present-day Minami Ward.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Ohno has lived many years without knowing what became of the classmates he was with when the A-bomb blast occurred. When he recalls their faces, his eyes fill with tears. “I hope that at least one of my classmates survived,” he said. “I would like to meet and talk with that person.”</p>\n\t\t\t\t<p class=\"body_en\">Until the age of 71, Mr. Ohno worked as a taxi driver. He loves having five grandchildren, and says that he has led a happy life.</p>\n\t\t\t\t<p class=\"body_en\">“War involves killing one another. It’s absolutely wrong. I hope the peaceful society we have now will be preserved,” Mr. Ohno said, appealing to today’s young people. (Sakiko Masuda, Staff Writer)</p><p class=\"body_en\">(Originally published on June 25, 2012)\n</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/13.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44736380046,
+                34.398631746244,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44736380046,
+                    34.398631746244,
+                    150,
+                    132.44736380046,
+                    34.398631746244,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en14",
+        "name": "Yoshinori Kuniwake",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Encouraged by A-bombed trees</p><p class=\"image\"><img src=\"data/photo/ryotoku_kokubu.jpg\"></p><p class=\"body_en\">Mother and three siblings perish: Gave seedlings to students with wish for peace</p><p class=\"body_en\">Yoshinori Kuniwake, 82, the former head priest of Hoshoin Temple in Naka Ward, Hiroshima gazed at the A-bombed camellia and linden trees on the temple grounds. \"These trees, which had the strength to survive the atomic bombing despite their wounds, helped encourage me to go on living,\" he said. Hoshoin Temple is located 1.7 kilometers from the bomb's hypocenter. Mr. Kuniwake was there at the temple when the blast occurred on the morning of August 6, 1945. The bomb stole the lives of his mother and his siblings.</p>\n\t\t\t\t<p class=\"body_en\">Back then, he lived in a home on the temple grounds with his parents, two brothers, and four sisters. He was 16 and attending present-day Sanyo High School. One of the many students mobilized for the war effort, Mr. Kuniwake was set to leave his house to bring lunch boxes to a military factory. Just then he heard the sound of a plane and a flash lit up the sky. He was blown into the air, through the smell of debris and dirt. Although he lost consciousness for a moment, he awoke to find a shaft of sunlight. He eagerly moved in that direction and was able to escape the wreckage of his home.</p>\n\t\t\t\t<p class=\"body_en\">His father Chitoku, 46, and his younger brother Yoshifumi, 11, managed to survive the collapse of the house, too. They found his younger sister Keiko, 4, crying amid the debris and went to her aid. He then searched the vicinity and saw his mother Haruko, 41, holding his brother Hironobu, just a year old. But Haruko and Hironobu had gotten caught under a falling beam and were dead.</p>\n\t\t\t\t<p class=\"body_en\">As flames closed in, the surviving members of his family had no choice but to flee. Houses on both sides of the road were on fire so, to prevent burns, they first soaked in a water cistern designed for fire fighting. Then they dashed down the road as quickly as they could. </p>\n\t\t\t\t<p class=\"body_en\">That night, they returned to the temple and slept out in the open. The temple buildings continued to burn and Mr. Kuniwake recalls seeing red and blue flames rising in the air, beneath a linden tree that had escaped the fire. \"Which flames came from my mother and my brother?\" he wondered. \"I shouldn't have fled. I should have stayed behind and died with them.\" He could not stop weeping.</p>\n\t\t\t\t<p class=\"body_en\">His older sister Nobuko, 18, was working at a factory as a member of the women's volunteer corps and survived the bombing, too. But his younger sister, Ikuko, 14, who was mobilized to work outdoors that day, had burns all over her body and died from her injuries. The whereabouts of another younger sister, Kazuko, 7, was unknown, until later her bones were discovered on the temple grounds.</p>\n\t\t\t\t<p class=\"body_en\">After the war came to an end, his family was thinking of leaving Hiroshima and starting fresh in another city. But when they saw taro plants begin to sprout, this encouraged them to continue living here.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kuniwake suffered injuries to his forehead and chest when his home collapsed. He received medical care in Kagawa Prefecture, where relatives lived, and then followed a teacher's advice and returned to high school in November of 1945. After graduating, he went to work at a post office and engaged in training to become a temple priest. In 1970, he took over the family temple by becoming the 18th head priest. He then handed this role over to his eldest son in 2001.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kuniwake hopes that \"Everyone will hold thoughts for peace and value the idea of harmony.\" He said, \"Let's reflect on the emptiness of war and the importance of peace by looking at the trees which have survived in Hiroshima when it was said that no plants would grow here.\" In 2002, Mr. Kuniwake offered seedlings grown from the seeds of the temple's A-bombed linden tree to Hakushima Elementary School, located nearby. He hopes that the feeling of cherishing peace will grow in the students' minds. (Sakiko Masuda, Staff Writer)\n</p><p class=\"body_en\">(Originally published on January 23, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/14.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46679336476,
+                34.407636048825,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46679336476,
+                    34.407636048825,
+                    150,
+                    132.46679336476,
+                    34.407636048825,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en15",
+        "name": "野上光章",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">雨の危険性 思いもせず</p><p class=\"image\"><img src=\"https://lh4.googleusercontent.com/-1s3DjjlCLRg/U6TQwh2vlqI/AAAAAAAEkd8/KbhuCGTIz5U/w640-h452-no/%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%258F%2597%25E3%2581%2591%25E7%25B6%2599%25E3%2581%258F%25E3%2582%2599%25E3%2580%2580%25E9%2587%258E%25E4%25B8%258A%25E5%2585%2589%25E7%25AB%25A0%25E3%2581%2595%25E3%2582%2593.jpg\"></p><p class=\"body_en\">身を潜めた防空壕。へそまで水に漬かった</p><p class=\"body_en\">三篠国民学校の6年生だった野上光章さんは、爆心地から約1.9キロの学校で被爆しました。帰宅後に逃げ込んだ防空壕で、火の勢いが収まるまで身を潜めていました。やがて降り始めた雨が流れ込み、へその辺りまで漬かりました。その時は、雨水に放射性物質が含まれているとは考えもしませんでした。</p><p class=\"body_en\">あの日、朝礼のため校庭へ出ようとしていた時、いすを講堂へ運ぶよう、先生に言われました。運び終えて教室に戻り、再び校庭に出ようとした瞬間（しゅんかん）でした。「ドーン」。鈍い音がして意識を失いました。気が付くと、7-8メートル吹き飛ばされ、廊下にいました。左腕（ひだりうで）にかすり傷があった程度で、大きなけがはありませんでした。</p><p class=\"body_en\">自宅は、学校に隣接している三篠神社でした。夢中で走って戻ると、倒壊した社務所の下敷きになっていた父が、はい出してきたところでした。体には三十数カ所の切り傷ができていました。 父と避難しようとしましたが、四方を火に囲まれ、身動きが取れなくなりました。西側は学校の木が燃え、北側の建物から出火。東からは、建物疎開（そかい）作業のために連れて来られた牛が猛スピードで走って来ます。南に逃げようとすると、避難してきた人から、「こっちは駄目だ」と止められました。</p><p class=\"body_en\">やむなく、境内に掘られた壕に飛び込みました。既に近所の人たちが避難していました。熱風が近づき、別の壕へ移ることにしました。その人たちにも促しましたが、「神様のそばで死にたい」と、その場を動きませんでした。残った4人のうち3人は、壕の中で亡くなったそうです。</p><p class=\"body_en\">別の壕で夕方まで、下半身が雨水に漬かったまま座り込んで、火の勢いが落ち着くのを待ちました。ようやく外に出ると、母と弟、3人の妹が疎開していた川内村に向かって父と歩きました。着いたのは午後9時ごろ。終戦を挟み、9月上旬まで川内村で暮らしました。</p><p class=\"body_en\">戦後は教師になり、1959年から30年近く、小学校に勤めました。88年に父が亡くなった後、三篠神社の宮司の職を継ぎました。64年に結婚し、今は孫が7人います。被爆体験を語るようになったのは、教師を辞めてから。原爆の悲惨さを伝えようと、地元の三篠小の児童や修学旅行生に証言しています。</p><p class=\"body_en\">6年前、ぼうこうがんが見つかりました。被爆直後に漬かった雨水のせいではないか、と思っています。「後々まで影響を残してしまうのが原爆。核兵器（かくへいき）は絶対に許したらいけない」と訴えます。</p><p class=\"body_en\">【写真説明】被爆した三篠小に近い三篠神社の脇で当時を振り返る野上さん</p><p class=\"body_en\">(2013年11月12日朝刊掲載)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/15.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45069716228,
+                34.412567067315,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45069716228,
+                    34.412567067315,
+                    150,
+                    132.45069716228,
+                    34.412567067315,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en16",
+        "name": "Fujio Torikoshi",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Scar on neck is ever-present reminder</p><p class=\"image\"><img src=\"data/photo/fujio_torigoe.jpg\"></p><p class=\"body_en\">Critical condition from bomb's heat rays: Plays harmonica with thoughts of his mother</p><p class=\"body_en\">Every time Fujio Torikoshi, 80, removes his clothes when taking a bath, he sees the keloid scar on his neck in the mirror. The sight jolts him back to August 6, the day of the atomic bombing. He has mixed feelings about sharing his story, wanting to forget what happened and yet believing he must recall his experience to hand down his account to others. \"I'm already 80 now,\" he said, \"and it's just something I'd like to forget...\"</p>\n\t\t\t\t<p class=\"body_en\">Mr. Torikoshi was born and raised in the Yamate section of Hiroshima, now part of Nishi Ward. His house was located at the foot of a mountain, and from its elevated site he had a full view of the downtown area.</p>\n\t\t\t\t<p class=\"body_en\">In 1945 he was 14 years old. On the morning of August 6 he was at home, about to head to the hospital to retake a physical exam instead of going to work with other students mobilized for the war effort.</p>\n\t\t\t\t<p class=\"body_en\">Hearing the sound of American planes, he stepped out of the house. He was looking up in the sky, to the east, when he spotted a dark object in the air above the city center. At that moment he saw a tremendous flash and a wave of heat, like the heat from a blazing fire, struck his face. A roaring wind, the bomb's shock wave, then slammed into him and blew him 7 or 8 meters into the air, to a water cistern intended for fighting fires.</p>\n\t\t\t\t<p class=\"body_en\">He was wearing a V-neck T-shirt, with short sleeves, and long pants, and he felt pain on his uncovered face and arms. His mother was at home, and she wasn't injured in the blast, so she rushed to him and brought him to an air raid shelter in their yard.</p>\n\t\t\t\t<p class=\"body_en\">As he slipped in and out of consciousness, his face swelled and he could no longer see. That afternoon, a neighbor took him to a hospital in the nearby city of Hatsukaichi. He came home with his face wrapped in bandages.</p>\n\t\t\t\t<p class=\"body_en\">He was unconscious for a few days, after August 7, and suffered from a high fever and bleeding. Then he finally came to again, sensing light through his bandages and hearing his mother singing to him. His face was still swollen, though, so he was unable to open his mouth. His mother chewed up food for him and fed it to him using a straw.</p>\n\t\t\t\t<p class=\"body_en\">In October, he was hospitalized near his maternal grandparents' house in the city of Iwakuni. The next spring he was discharged and he enrolled at a junior high school there. His new classmates teased him about his face, dark red in color, telling him, \"You have a funny red face!\"</p>\n\t\t\t\t<p class=\"body_en\">Influenced by his older brother, who was a teacher at the high school and university level, Mr. Torikoshi became a teacher, too, in the spring of 1952. But he didn't want others to see his keloid, so he would wear shirts that covered his neck, even during swimming lessons. </p>\n\t\t\t\t<p class=\"body_en\">While he was in the hospital, his mother gave him a harmonica. Thinking \"I want to learn to play the song my mother was singing when I regained consciousness,\" after his retirement in 1991, Mr. Torikoshi became engrossed in playing his harmonica. Now he teaches harmonica lessons at his home and performs in concerts around the Chugoku region. \"I feel happy that I'm still breathing,\" he said. \"I'm grateful that I survived. I hope children will feel appreciation for their lives.\" As he plays the harmonica, he thinks of his mother, who loved him so deeply. (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on December 26, 2011)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/16.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.43653364918,
+                34.407628541413,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.43653364918,
+                    34.407628541413,
+                    150,
+                    132.43653364918,
+                    34.407628541413,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en17",
+        "name": "Masae Kimura",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Handing down A-bomb sorrows to grandson in Fukushima</p><p class=\"image\"><img src=\"data/photo/hideo_kimura.jpg\"></p><p class=\"body_en\">A-bomb accounts shared for first time after nuclear accident</p><p class=\"body_en\">Every August 6, Masae Kimura (nee Hiromoto), 73, and her husband, Hideo, 77, visit Hiroshima Peace Memorial Park in the heart of the city. It was at this location that both lost family members in the atomic bombing. When war is waged, they say, innocent children and civilians become victims. “We want a peaceful world,” the couple says.</p>\n\t\t\t\t<p class=\"body_en\">Masae was 6 years old on August 6, 1945, the day the atomic bomb was dropped. Her father died in battle in 1944, and her mother and paternal grandfather ran the family’s barber shop in the Zaimoku-cho district (now part of Nakajima-cho in Naka Ward), close to the hypocenter.</p>\n\t\t\t\t<p class=\"body_en\">Two years earlier, at the age of 4, Masae was evacuated to her maternal grandparents’ home in Gion-cho (part of present-day Asaminami Ward). On the morning of the bombing, she was in the schoolyard of Nagatsuka National School (now Nagatsuka Elementary School), about 4.1 kilometers from the hypocenter. She recalls how the windows of the school building were shattered by the blast, scattering glass everywhere.</p>\n\t\t\t\t<p class=\"body_en\">The day before the bombing, her mother, grandfather, and two-year-old sister visited the house in Gion-cho, and they had dinner together. But it would be the last time they were together as a family. Back in Zaimoku-cho the next morning, all three died in the blast.</p>\n\t\t\t\t<p class=\"body_en\">Two days later, her maternal grandparents showed her boxes containing the bones of her mother, her sister, and her grandfather. She was told that her sister’s body hadn’t been completely burned, and that soldiers helped cremate her remains. “I think it was because my mother risked her own life trying to save my sister,” Masae said.</p>\n\t\t\t\t<p class=\"body_en\">After the atomic bombing, Masae grew up with her maternal grandparents. When she reflects on her mother’s feelings, having to die while leaving her daughter behind, she can’t help shedding tears.</p>\n\t\t\t\t<p class=\"body_en\">For his part, Hideo was 10 years old at the time, and he experienced the A-bombing alongside a temporary school building on the grounds of Misasa National School (present-day Misasa Elementary School). The school was located near his home in Nakahiro-cho (part of today’s Nishi Ward), about 1.4 kilometers from the hypocenter. While standing outside the school building, waiting for the school day to begin, he noticed an airplane overhead. Suddenly, there was a great flash, and he dashed into a ditch for cover. Then he heard a huge boom.</p>\n\t\t\t\t<p class=\"body_en\">Because he was sheltered in the shadow of the wall, he wasn’t burned or injured. Returning to his home, now ablaze, he found his mother and two elder sisters nearby, and they fled toward a mountain together. Later, they sought refuge at Honkawa National School (now Honkawa Elementary School in Naka Ward). There, Hideo helped cremate the remains of A-bomb victims.</p>\n\t\t\t\t<p class=\"body_en\">Another elder sister, however, was working at the Hiroshima Prefectural Industrial Promotion Hall (today’s A-bomb Dome) when the atomic bomb exploded. Her body was never found. Instead, Hideo and his family carried home earth from beside the building and have preserved it in her memory.</p>\n\t\t\t\t<p class=\"body_en\">Hideo and Masae met at the same workplace and married in 1962. One of their grandchildren is now studying at Fukushima University in the city of Fukushima. After the critical accident at the nuclear power plant in that area, they shared their experiences of the atomic bombing with their grandson for the first time.</p>\n\t\t\t\t<p class=\"body_en\">“Nuclear power plants are horrible things,” Hideo said. “They can be used to produce nuclear weapons. We need alternatives to nuclear energy.” Expressing her hopes, Masae said, “I would like the younger generations to think carefully so the experience suffered by Hiroshima will never be repeated.” (Sakiko Masuda, Staff Writer)</p><p class=\"body_en\">(Originally published on September 24, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/17.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4548340693,
+                34.426723370105,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4548340693,
+                    34.426723370105,
+                    150,
+                    132.4548340693,
+                    34.426723370105,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en18",
+        "name": "Hideo Kimura",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Handing down A-bomb sorrows to grandson in Fukushima</p><p class=\"image\"><img src=\"data/photo/hideo_kimura.jpg\"></p><p class=\"body_en\">A-bomb accounts shared for first time after nuclear accident</p><p class=\"body_en\">Every August 6, Masae Kimura (nee Hiromoto), 73, and her husband, Hideo, 77, visit Hiroshima Peace Memorial Park in the heart of the city. It was at this location that both lost family members in the atomic bombing. When war is waged, they say, innocent children and civilians become victims. “We want a peaceful world,” the couple says.</p>\n\t\t\t\t<p class=\"body_en\">Masae was 6 years old on August 6, 1945, the day the atomic bomb was dropped. Her father died in battle in 1944, and her mother and paternal grandfather ran the family’s barber shop in the Zaimoku-cho district (now part of Nakajima-cho in Naka Ward), close to the hypocenter.</p>\n\t\t\t\t<p class=\"body_en\">Two years earlier, at the age of 4, Masae was evacuated to her maternal grandparents’ home in Gion-cho (part of present-day Asaminami Ward). On the morning of the bombing, she was in the schoolyard of Nagatsuka National School (now Nagatsuka Elementary School), about 4.1 kilometers from the hypocenter. She recalls how the windows of the school building were shattered by the blast, scattering glass everywhere.</p>\n\t\t\t\t<p class=\"body_en\">The day before the bombing, her mother, grandfather, and two-year-old sister visited the house in Gion-cho, and they had dinner together. But it would be the last time they were together as a family. Back in Zaimoku-cho the next morning, all three died in the blast.</p>\n\t\t\t\t<p class=\"body_en\">Two days later, her maternal grandparents showed her boxes containing the bones of her mother, her sister, and her grandfather. She was told that her sister’s body hadn’t been completely burned, and that soldiers helped cremate her remains. “I think it was because my mother risked her own life trying to save my sister,” Masae said.</p>\n\t\t\t\t<p class=\"body_en\">After the atomic bombing, Masae grew up with her maternal grandparents. When she reflects on her mother’s feelings, having to die while leaving her daughter behind, she can’t help shedding tears.</p>\n\t\t\t\t<p class=\"body_en\">For his part, Hideo was 10 years old at the time, and he experienced the A-bombing alongside a temporary school building on the grounds of Misasa National School (present-day Misasa Elementary School). The school was located near his home in Nakahiro-cho (part of today’s Nishi Ward), about 1.4 kilometers from the hypocenter. While standing outside the school building, waiting for the school day to begin, he noticed an airplane overhead. Suddenly, there was a great flash, and he dashed into a ditch for cover. Then he heard a huge boom.</p>\n\t\t\t\t<p class=\"body_en\">Because he was sheltered in the shadow of the wall, he wasn’t burned or injured. Returning to his home, now ablaze, he found his mother and two elder sisters nearby, and they fled toward a mountain together. Later, they sought refuge at Honkawa National School (now Honkawa Elementary School in Naka Ward). There, Hideo helped cremate the remains of A-bomb victims.</p>\n\t\t\t\t<p class=\"body_en\">Another elder sister, however, was working at the Hiroshima Prefectural Industrial Promotion Hall (today’s A-bomb Dome) when the atomic bomb exploded. Her body was never found. Instead, Hideo and his family carried home earth from beside the building and have preserved it in her memory.</p>\n\t\t\t\t<p class=\"body_en\">Hideo and Masae met at the same workplace and married in 1962. One of their grandchildren is now studying at Fukushima University in the city of Fukushima. After the critical accident at the nuclear power plant in that area, they shared their experiences of the atomic bombing with their grandson for the first time.</p>\n\t\t\t\t<p class=\"body_en\">“Nuclear power plants are horrible things,” Hideo said. “They can be used to produce nuclear weapons. We need alternatives to nuclear energy.” Expressing her hopes, Masae said, “I would like the younger generations to think carefully so the experience suffered by Hiroshima will never be repeated.” (Sakiko Masuda, Staff Writer)</p><p class=\"body_en\">(Originally published on September 24, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/18.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44333709089,
+                34.405608211163,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44333709089,
+                    34.405608211163,
+                    150,
+                    132.44333709089,
+                    34.405608211163,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en19",
+        "name": "Hideo Ishida",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Fear of discrimination kept his A-bomb experience a secret</p><p class=\"image\"><img src=\"data/photo/hideo_ishida.jpg\"></p><p class=\"body_en\">Obtained the survivor’s certificate 51 years after the bombing</p><p class=\"body_en\">Hideo Ishida, 81, long held the fear that his exposure to the atomic bombing would lead to discrimination and other difficulties. Even when he got married, he was reluctant to reveal his A-bomb experience to his wife. However, in 1996, 51 years after the atomic bomb was dropped, he finally obtained the A-bomb Survivors Certificate. Now he makes the appeal: “Please convey the fact that many young people died that day and the survivors have suffered for many years.”</p>\n\t\t\t\t<p class=\"body_en\">On August 6, the day of the bombing, Mr. Ishida was a second-year student at Sanyo Junior High School. He had been mobilized to work at a factory located near today’s Mazda automobile plant in the Fuchu district, roughly 4.3 kilometers from the hypocenter. The factory had ties to the Kure Naval Arsenal.</p>\n\t\t\t\t<p class=\"body_en\">At that moment, though, he had no work to do so he was outside, on the bank of the Fuchu River. He then heard the buzz of an American plane, a B-29 bomber. Right afterward, there was a flash of white light above the city center, over Mt. Hijiyama. The mountain looked as if it was floating in the sky, like an aircraft carrier on the water.</p>\n\t\t\t\t<p class=\"body_en\">The ball of light spread out toward Mr. Ishida, like rippling water, and when it arrived above him, he was blown into the air. Unharmed, he headed in the direction of downtown Hiroshima, with four classmates, in search of his father, who was working at a factory in the Ozu area, now part of Minami Ward.</p>\n\t\t\t\t<p class=\"body_en\">When he reached the factory, however, he was unable to locate his father. Venturing on to the city center, he passed people with faces that had been severely burned and arms peeled clean of their skin. As he stood on Kojin Bridge, he saw that the city had become a sea of fire. He went across the bridge and moved along the Enko River for a while, arriving at Mukainada Station. From there he followed the railroad tracks back to his maternal grandparents’ house in the Nakano area, part of present-day Aki Ward, where he had been staying as a result of an earlier evacuation.</p>\n\t\t\t\t<p class=\"body_en\">His father was wounded in the factory, his back pierced by flying fragments of glass, and sought treatment at a hospital before returning home that night.</p>\n\t\t\t\t<p class=\"body_en\">After the war, when Mr. Ishida was in his late 20s, each time a prospective marriage partner appeared, his mother would confirm whether or not the woman was an A-bomb survivor. At the same time, he withheld the truth that he himself had experienced the atomic bomb. Smiling grimly, he recalled: “I talked with my friends about it and we came to the conclusion that holding the A-bomb Survivor’s Certificate would make it hard for us to find someone to marry.”</p>\n\t\t\t\t<p class=\"body_en\">His wedding day came in 1960, and when his wife became pregnant, he shared his A-bomb experience with her for the first time. His wife simply listened. His two children and two grandchildren have so far suffered no serious health concerns.</p>\n\t\t\t\t<p class=\"body_en\">He first sought to obtain the A-bomb Survivor’s Certificate around 1975. This was prompted by a conversation with his first son, who was in junior high school at the time. When Mr. Ishida tried to speak about the atomic bombing with his son, the boy criticized him, saying, “Why are you talking about the atomic bombing when you didn’t even get the A-bomb Survivor’s Certificate?”</p>\n\t\t\t\t<p class=\"body_en\">He applied for the certificate at city hall, but his application was rejected because he was unable to find two witnesses who were older than 14 at the time of the A-bomb blast. When his grandchild entered junior high, he tried again, and this time was issued the certificate as someone who had “entered the designated area of the city within two weeks of the atomic bombing.”</p>\n\t\t\t\t<p class=\"body_en\">Mr. Ishida retired two and a half years ago and now actively shares his A-bomb account with others. “If nuclear weapons are used, they will destroy the earth,” he said. “I’d like young people to take over our anti-nuclear views.” (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on June 12, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/19.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.5019346492,
+                34.375465866339,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.5019346492,
+                    34.375465866339,
+                    150,
+                    132.5019346492,
+                    34.375465866339,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en20",
+        "name": "Kayoko Yamashita",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Sought shelter under a stove with younger sister</p><p class=\"image\"><img src=\"data/photo/kayoko_yamashita.jpg\"></p><p class=\"body_en\">After the bombing, slept on the riverbank, saw bodies in the water</p><p class=\"body_en\">When the atomic bomb exploded, Kayoko Yamashita (nee Munemasa), who was nine years old at the time, held her three-year-old sister Mitsuko and hid under a cooking stove. They were roughly 3 kilometers from the hypocenter and managed to avoid serious injury.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Yamashita lived in Minamikaniyacho (part of present-day Minami Ward). She would cross the Enko River to attend Hijiyama National School (today’s Hijiyama Elementary School in Minami Ward), but near the end of the war, she went to a classroom at a temple near her home, instead of school. She wasn’t evacuated to the countryside, like many other children, because her family had decided: “If we die, we’ll die together as a family.”</p>\n\t\t\t\t<p class=\"body_en\">The morning of August 6, 1945 began typically enough. Ms. Yamashita, along with her six-year-old sister Sachiko and 10 to 15 other children, were in front of her house, set to walk to the temple. But at 8:15 someone called out, “Look! It’s a B-29!” There was no air-raid siren, though, as was usually the case. Still, the children fled in different directions, seeking shelter in the neighborhood.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Yamashita picked up Mitsuko, who had just wandered over, and ran into a nearby house, where they dove under the stove. Suddenly there was darkness all around them. When the light gradually returned, she saw that the room was in such disarray that she could hardly find a place to put their feet and they had difficulty escaping.</p>\n\t\t\t\t<p class=\"body_en\">Her mother, Itsuno, had been asked by a neighbor to switch their work shifts for the war effort, so she was lying down at home when the A-bomb exploded. After the blast, while bleeding from the glass fragments of a wall clock that had pierced her back and bottom, she went to search for Ms. Yamashita, shouting, “Kayoko! Kayoko!” In a state of shock, she was leading two of Sachiko’s friends by the hand. Sachiko had fled to the back door of their house, and a falling tile from the roof struck her head.</p>\n\t\t\t\t<p class=\"body_en\">With the walls of the house crumbled, they could no longer live there. For about a week, they slept out in the open air on the bank of the Enko River. They saw scores of bodies floating on the water.</p>\n\t\t\t\t<p class=\"body_en\">After the war, Ms. Yamashita met her husband, Naofumi, 77, while working at the same company. Her mother-in-law was opposed to the marriage, because Ms. Yamashita was an A-bomb survivor, but they overcame such objections and were wed in December 1959.</p>\n\t\t\t\t<p class=\"body_en\">A few years later, her mother-in-law obtained the Atomic Bomb Survivors Certificate because she had provided aid to the injured in Sakacho, Hiroshima Prefecture in the aftermath of the bombing. “She got the certificate even though she continually criticized me for being a survivor,” Ms. Yamashita recalled. “It was very upsetting.”</p>\n\t\t\t\t<p class=\"body_en\">She was blessed with one son and two daughters, but in 1990, her first daughter, Sayuri, now 50, developed leukemia. The thought “It’s because she’s the child of an A-bomb survivor” went through her mind. After receiving chemotherapy, Sayuri experienced a full recovery, but three years ago, she was diagnosed with lung cancer and underwent surgery.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Yamashita herself has suffered cataracts and the removal of a cancerous growth in her thyroid. She must also contend with an incurable condition which causes muscle pain.</p>\n\t\t\t\t<p class=\"body_en\">“My health is poor,” Ms. Yamashita said, “but I appreciate our life today, where we can get the things we want.” At the same time, she feels there is too much indulgence and so she tries to be frugal. (Rie Nii, Staff Writer) </p><p class=\"body_en\">(Originally published on November 13, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/20.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.48262343371,
+                34.389942960969,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.48262343371,
+                    34.389942960969,
+                    150,
+                    132.48262343371,
+                    34.389942960969,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en21",
+        "name": "Toshiyuki Miyake",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Haunted by thoughts of dead schoolmates</p><p class=\"image\"><img src=\"data/photo/toshiyuki_miyake.jpg\"></p><p class=\"body_en\">A-bomb account in English conveys cruelty to the world</p><p class=\"body_en\">“I wonder what determines a person’s fate, whether they live or die. We were all in the same place when the bomb exploded. When I think of the regrets my classmates must have felt, in dying that day, I get choked up.” Toshiyuki Miyake, 82, was 15 years old when the atomic bomb was dropped on August 6, 1945. He returned to the place where he experienced the bombing with his peers, and revived his memories.</p>\n\t\t\t\t<p class=\"body_en\">　 At the time, he was a third-year student at Hiroshima Municipal First Technical School (now Hiroshima Prefectural Technical High School). Because his parents and his four younger siblings were in China, where his father was working, Mr. Miyake lived with his grandparents in the Nihocho district (part of present-day Minami Ward).</p>\n\t\t\t\t<p class=\"body_en\">When the atomic bomb fell, he was en route to a work site where he would help create a fire lane in the event of air raids. He was walking along with about 20 classmates at the foot of Mt. Hijiyama, on the western side, roughly 1.7 kilometers from the hypocenter. Suddenly there was a flash, and then everything went dark. The blast blew him off the ground, to a spot about 20 meters away. When he took in his surroundings, he found himself in a dugout designed for air raids.</p>\n\t\t\t\t<p class=\"body_en\">He spotted a friend who had been walking with him just moments before—the friend was now pinned under a wall. He and other classmates went to the boy’s aid, but he was already dead.</p>\n\t\t\t\t<p class=\"body_en\">The only students who fled to Mt. Hijiyama were those still able to walk. Though Mr. Miyake suffered burns to the right side of his body, he managed to flee with the others. At the top of the small mountain, names were called and some of his classmates were missing.</p>\n\t\t\t\t<p class=\"body_en\">Later, he heard that some students who had made it up the mountain and then returned home, ultimately died while crying out, “Water! Give me water!”</p>\n\t\t\t\t<p class=\"body_en\">Mr. Miyake walked back to his house from Mt. Hijiyama. The cap he was wearing had protected his head from the bomb’s heat rays, but from below his ear down to his leg, his skin was burned. He tried every remedy for burns that others told him might be effective, such as washing his body with sea water. He even swallowed his feelings of sympathy for the victims, gathered the bones of cremated bodies from a schoolyard, and ground them into powder to apply to his burns.</p>\n\t\t\t\t<p class=\"body_en\">After some time, the burned skin healed. Autumn came and he returned to school, reuniting with old classmates. “It’s good that you survived!” they said, amid hugs and tears.</p>\n\t\t\t\t<p class=\"body_en\">Even now, when he recalls his friends who perished in the atomic bombing, his eyes fill with tears. In 2009, he organized a memorial service for his departed schoolmates—the first formal ceremony he pursued—at a temple in Minami Ward. “They were on my mind for such a long time. Holding that memorial service eased my feelings a little bit,” he said.</p>\n\t\t\t\t<p class=\"body_en\">His eldest son has lived in Switzerland for many years, where he works in banking. “In order to abolish nuclear weapons and create a world where human beings can be happy, I want people to know about the cruelty of the atomic bombing,” he said, explaining how he provided his son with the account of his A-bomb experience in English to share with others. (Sakiko Masuda, Staff Writer)</p><p class=\"body_en\">(Originally published on October 22, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/21.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.47200754189,
+                34.388402639973,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.47200754189,
+                    34.388402639973,
+                    150,
+                    132.47200754189,
+                    34.388402639973,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en22",
+        "name": "Sumiko Ogata",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">A body scarred, a life of pain and anxiety</p><p class=\"image\"><img src=\"data/photo/sumiko_ogata_new.jpg\"></p><p class=\"body_en\">Black rain brought on vomiting by the river</p><p class=\"body_en\">Bleeding gums, hair loss, purple spots spreading on the skin: these were the symptoms suffered by a 13-year-old girl, symptoms that chilled her with the horror of A-bomb death. Even today, when Sumiko Ogata (nee Miyoshi), 80, thinks back to that day, her eyes fill with tears and her voice trembles.</p>\n\t\t\t\t<p class=\"body_en\">Back then, Ms. Ogata was in her second year at Hiroshima Jogakuin High School. As one of the many students mobilized for the war effort, she was spending her days helping to dismantle buildings to create a fire lane in the Zakoba district, part of present-day Naka Ward. But on August 6, the day of the atomic bombing, she was feeling poorly and so she stayed home in Nishishin-machi. </p>\n\t\t\t\t<p class=\"body_en\">The area where her house sat was located just 700 meters from the hypocenter. When the bomb exploded with a roar, she was knocked unconscious. Coming to, she found herself beneath a chest of drawers. With all her might, she managed to crawl out. Then, along with her aunt, Akiko Sera, then 32, who had been living with her family, she helped her younger brothers Yoshiaki, 4, and Hiroaki, 3, who were pinned under the wreckage of their home. She and her aunt carried the boys on their backs, hiking to an evacuation site in the Yamate district, now part of Nishi Ward. Her father was not at home as he was off fighting on the front lines. </p>\n\t\t\t\t<p class=\"body_en\">When they reached the Yamate River, at the entrance to the Yamate district, they didn’t have the strength to continue walking. So they sat down to rest and, after a while, the black rain began to fall like an evening shower. Ms. Ogata then suffered from vomiting and diarrhea and wasn’t able to leave the river bank. They stayed by the river until the next morning.</p>\n\t\t\t\t<p class=\"body_en\">On August 7, they were reunited with Ms. Ogata’s mother, Masano, then 38, who had gone to the village of Sagotani, in present-day Saeki Ward, to see her son Kuniaki, 11. Kuniaki was evacuated there with other schoolchildren before the bombing took place. Masano went to Sagotani on August 5. The family slept outside by the river for about a week, and then traveled to the village of Gono (now, the town of Yoshida), located north of Hiroshima Prefecture, to seek medical treatment and the chance to regain their strength. This was the evacuation site of Masano’s aunt and uncle. </p>\n\t\t\t\t<p class=\"body_en\">Ms. Ogata and Akiko both came down with purplish spots on their skin, their hair fell out in handfuls, and their gums bled. Ms. Ogata, suffering a persistently high fever, finally fell unconscious. When she awoke, in early September, she learned that Akiko was dead.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Ogata then experienced terrible pain, with pus oozing from wounds to her back and her right arm. “It was frightening because I wasn’t sure where all that pus was coming from,” she said, recalling that time. At the hospital, a large amount of pus was removed from her left buttocks to her groin, but afterward, that part of her body became hollowed out. Even today, pain prevents her from sitting with her legs out to one side. She bears a scar on her arm as well. </p>\n\t\t\t\t<p class=\"body_en\">Ms. Ogata got married at the age of 22. Her constitution is weak, though, and she has been hospitalized many times. Although A-bomb survivors often suffered from discrimination when it came time to seek a marriage partner, her father-in-law, an A-bomb survivor himself, dismissed such fears and the marriage was arranged. She feels happy to have borne a son and a daughter, but, at the same time, has always been anxious about her exposure to the atomic bombing possibly affecting her children in some way.</p>\n\t\t\t\t<p class=\"body_en\">More than 300 of her schoolmates who were laboring in the Zakoba district and at other sites on August 6 lost their lives in the atomic blast. Starting five years ago, she has been visiting her alma mater to relate her account of the atomic bombing to today’s students. “I have to speak out, for my friends,” she said.(Rie Nii, Staff Writer) </p><p class=\"body_en\">(Originally published on March 12, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/22.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44492188886,
+                34.389366102988,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44492188886,
+                    34.389366102988,
+                    150,
+                    132.44492188886,
+                    34.389366102988,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en23",
+        "name": "Hiroe Yoshihara",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Conscripted work led to a narrow escape</p><p class=\"image\"><img src=\"data/photo/hiroe_yoshihara.jpg\"></p><p class=\"body_en\">Unable to forget the fire for cremating the dead</p><p class=\"body_en\"><p class=\"body_en\">During the war, Hiroe Yoshihara (nee Takahashi), 86, was a midwife, living and working at Masaoka Hospital. The hospital was located in Nekoyacho, part of present-day Naka Ward, only 500 meters from the hypocenter. However, on August 6, 1945, the day of the atomic bombing, Ms. Yoshihara was mobilized for the war effort and was assigned to serve as a nurse at a hospital on the grounds of the Hiroshima Shipyard of Mitsubishi Heavy Industries. Because this hospital was located in Eba, about 4 kilometers from the hypocenter, she managed to survive the blast.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Yoshihara left Masaoka Hospital at around 7:30 on the morning of the bombing. She took a streetcar, got off at the Eba stop, then walked to the hospital. At 8:15, she was changing from her monpe (old-fashioned Japanese-style work pants for women) into a white nurse’s uniform. At that instant, as she heard a voice shouting that a B-29 bomber was overhead, she saw a great flash in the sky. Thinking she should move to an air-raid shelter, she went into the corridor and was hit by a powerful wind blowing in from outside the building. She dived to the floor.</p>\n\t\t\t\t<p class=\"body_en\">Shortly after, she was heading to the air-raid shelter outside the building when she was summoned: “There are wounded coming! You’re needed right away!”</p>\n\t\t\t\t<p class=\"body_en\">When she entered an examination room, she found that medical equipment and antiseptic solution had been knocked over and the room was in disarray. Still, the injured came, one after the other. Many had been burned, skin from their faces and hands now peeling and dangling down. Ms. Yoshihara dabbed some zinc oxide oil on their wounds.</p>\n\t\t\t\t<p class=\"body_en\">But the number of wounded overwhelmed the hospital and many had to be laid outside on the ground. Recalled Ms. Yoshihara: “It was a very hot day in August and they were basically left to die. When we checked on them, many were dead.” The victims’ bodies were then carried to the beach and burned. The fire used to cremate the bodies blazed on and on. “Even now, it’s like I can still see that fire,” she said, tears in her eyes.</p>\n\t\t\t\t<p class=\"body_en\">In addition to her efforts at the hospital on the grounds of Mitsubishi Heavy Industries, Ms. Yoshihara, along with the doctor Akira Masaoka, tended to patients at a dormitory for workers from Korea and at Eba National School (now Eba Elementary School).</p>\n\t\t\t\t<p class=\"body_en\">On August 15, she returned to her parents’ home in the village of Toyosaka (part of today’s Higashihiroshima City). There, she suffered from severe diarrhea and was unable to rise from her bed for a week. After she recovered, she went back to the Mitsubishi hospital and worked there until December 1945.</p>\n\t\t\t\t<p class=\"body_en\">Since that time, for the past 67 years, Ms. Yoshihara has lived without serious illness. She has led a vigorous life, working in gynecology in Higashihiroshima City until May 2011. She believes this is because, during the week she suffered from diarrhea, the poisonous radiation from the atomic bomb was removed from her body.</p>\n\t\t\t\t<p class=\"body_en\">“I’m getting old, so I should talk about my experience so it can be handed down to the next generation to help make a peaceful world,” she explained. For this article, she spoke about her A-bomb experience for the first time.</p>\n\t\t\t\t<p class=\"body_en\">In preparing for this article, she made notes about her experience and later spotted one of her grandchildren, a second-year student in junior high whom she lives with, eagerly reading these memories. “There should be peace in the world,” she said. “There should never be another war.” This is her hope for the next generation. (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on January 14, 2013)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/23.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.42984209287,
+                34.359753263155,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.42984209287,
+                    34.359753263155,
+                    150,
+                    132.42984209287,
+                    34.359753263155,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en24",
+        "name": "Kenji Takashina",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Mother and friend pass away in front of his eyes</p><p class=\"image\"><img src=\"data/photo/kenji_takashina.jpg\"></p><p class=\"body_en\">Time passes, comes to tell A-bomb account: Letters from children are \"treasures\"</p><p class=\"body_en\">At the beginning of our interview, Kenji Takashina, 74, shared letters he had received from elementary school students in Osaka and called them his \"treasures.\" These students had listened to Mr. Takashina's story and then wrote such impressions as \"I would be so sad if a close friend died in war\" and \"I'm against war.\" After experiencing the atomic bombing of Hiroshima, Mr. Takashina lived in Osaka for about 50 years, where he was active in relating his account of the bombing.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Takashina was 8 years old when the atomic bomb was dropped. He was playing with a boy from his neighborhood near his house in the Deshio district (now, part of Minami Ward), about 2.5 kilometers from the hypocenter. He was squatting down when there was a great flash and blast. Flying fragments of glass pierced the right side of his face, from his temple to his chin.</p>\n\t\t\t\t<p class=\"body_en\">His mother, Ayako, was at home at the time, and she was pinned under a beam and suffered multiple fractures to the bones in her upper torso. The boy Mr. Takashina had been playing with was severely injured, too, with wounds to his face and chest. With his mother and his friend, Mr. Takashina fled to his mother's cousin's house in the Kaita district. As they walked along, Mr. Takashina would help support his friend. He also gave his friend some water, which his friend gladly drank, but then the boy died in Mr. Takashina's arms.</p>\n\t\t\t\t<p class=\"body_en\">A few days later, Mr. Takashina's mother's gums began to bleed. No treatment was available to her, though, and she died on August 13 at the age of 32. His father, Hidemaru, had already died in 1939, in a battle between Japanese soldiers and soldiers from the former Soviet Union. Mr. Takashina, now on his own and carrying an urn containing his mother’s ashes, went to his paternal grandparents’ home in the village of Toyama (now, part of Asaminami Ward), where his uncle was living.</p>\n\t\t\t\t<p class=\"body_en\">Toyama is located 13 kilometers from the hypocenter and took in many people seeking refuge after the blast. The radioactive \"black rain\" which fell in the aftermath of the bombing also fell in this location. In Toyama, Mr. Takashina graduated from junior high school and began to work. While working, he sought to enter a vocational school to learn communications technology, but was unable to pass the school's health examination. At this checkup he learned for the first time that his eardrum had torn as a result of the A-bomb blast.</p>\n\t\t\t\t<p class=\"body_en\">He passed the entrance exam for high school, but had to abandon the idea of enrolling when he wasn't able to scrape together enough money for the school expenses. He was feeling a bitterness toward life, but his mother's last words kept him going through that trying time. She had told him: \"Live your life as best you can and don't cause difficulty for others.\"</p>\n\t\t\t\t<p class=\"body_en\">After he turned 20, an uncle on his mother's side advised him to go to Osaka to apprentice himself in a barbershop. At the age of 26, he opened his own shop and worked there until he moved back to Hiroshima in September 2010.</p>\n\t\t\t\t<p class=\"body_en\">About 20 years ago, prompted by his second son, an elementary school teacher, Mr. Takashina began to speak about his painful A-bomb experience. When talking in schools, he would sometimes share a letter his father had written to him. Part of it reads: \"I'm going off to war. After I die, I want you to listen to your mother and grow up to be a good man. I'll always be watching over you, son.\"</p>\n\t\t\t\t<p class=\"body_en\">\"Our life today has been created through the sacrifices people made for their families and their nation,\" Mr. Takashina said. \"Live as fully as you can and forge your own path for your life.\" (Sakiko Masuda, Staff Writer)</p><p class=\"body_en\">(Originally published on December 13, 2011)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/24.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4773915876,
+                34.37674621559,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4773915876,
+                    34.37674621559,
+                    150,
+                    132.4773915876,
+                    34.37674621559,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en25",
+        "name": "Hiroso Niimi",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Recalling the sight of his mother, trapped and bleeding</p><p class=\"image\"><img src=\"data/photo/hirozo_niimi.jpg\"></p><p class=\"body_en\">“Run away!” she screamed from under the wreckage of their house</p><p class=\"body_en\">“Hiro, hurry! Run away!” It was just after the atomic bomb exploded and Hiroso Niimi’s mother, trapped under their toppled home, was screaming at him to flee. Mr. Niimi, now 73, still vividly recalls the sight of his mother’s face, red with blood, through a gap between the fallen beams.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Niimi was 6 years old that morning of August 6, 1945. He was at home in Hiranocho (part of present-day Naka Ward), about 1.7 kilometers from the A-bomb’s hypocenter. He had changed into his clothes and was getting ready to head out to the hospital because he was having some trouble with his right eye.</p>\n\t\t\t\t<p class=\"body_en\">He doesn’t remember the bomb’s flash or roar when it exploded at 8:15 a.m. When he regained his senses, he found that he had been blown into the yard. Some fragments of glass had pierced his body, and he suffered burns and cuts. Though he wanted to stay and help his mother, his uncle, who was living with them, urged him to flee with his aunt and cousin.</p>\n\t\t\t\t<p class=\"body_en\">They fled with a wave of other survivors to a shrine in Ujina (part of present-day Minami Ward). Along the way, he saw the bodies of victims who had been burned black or were covered in blood.</p>\n\t\t\t\t<p class=\"body_en\">Several days later, a soldier heading to help cremate bodies led him to a place about one kilometer from his house. There, a neighbor told him that his mother had been spotted, and this raised the hope that she hadn’t burned to death after all, that she somehow survived.</p>\n\t\t\t\t<p class=\"body_en\">He returned to the place where his house had stood and found a message written on a roof tile. It was from his father, who had been safely away on a business trip to Okayama when Hiroshima was attacked. The message said he was now at Senda National School (now Senda Elementary School in Naka Ward).</p>\n\t\t\t\t<p class=\"body_en\">The next day Mr. Niimi was reunited with his father and older brother near the school. He was then brought to see his mother. Her wounded face was shrouded in bandages, but he recognized her voice and the form of her body. The happiest moment of his life was when his mother embraced him. He learned that she had been aided by his uncle, who stayed behind when he fled, and also a passerby. </p>\n\t\t\t\t<p class=\"body_en\">After the bombing, he endured many hardships. He ate horseweed, something no one eats today, and went fishing and clamming in a river that still held bodies of the victims. </p>\n\t\t\t\t<p class=\"body_en\">He went on to become a national public servant and held staff positions at Hiroshima University, Kobe University, and Yamaguchi University. After marrying, his first son was born in 1966, but then he developed cancer. Though the cancer went into remission, Mr. Niimi has long been anxious about his health and is now battling two types of cancer.</p>\n\t\t\t\t<p class=\"body_en\">“As an atomic bomb survivor, I was blessed to survive, so I want to convey the misery of the atomic bombing to others,” he said. In 2008, Mr. Niimi became a Hiroshima Peace Volunteer and now serves as a guide at Hiroshima Peace Memorial Museum. In 2009, he took part in a project organized by Peace Boat, a Tokyo-based NGO, in which survivors shared their A-bomb accounts during an around-the-world voyage. At each port of call, he urged people to visit Hiroshima.</p>\n\t\t\t\t<p class=\"body_en\">“Learn about Hiroshima’s past and think about what you can do for peace, then take action,” Mr. Niimi said. “This isn’t just somebody else’s business. It’s your business, too.” (Sakiko Masuda, Staff Writer)</p><p class=\"body_en\">(Originally published on November 26, 2012)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/25.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46293000083,
+                34.38146944557,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46293000083,
+                    34.38146944557,
+                    150,
+                    132.46293000083,
+                    34.38146944557,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en26",
+        "name": "Miyoji Kawasaki",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Join hands globally for nuclear abolition</p><p class=\"image\"><img src=\"data/photo/miyoji_kawasaki.jpg\"></p><p class=\"body_en\">Unable to forget the sight and smell of burn victims</p><p class=\"body_en\"><p class=\"body_en\">Miyoji Kawasaki, 83, experienced the atomic bombing while at home in Koimachi (part of present-day Nishi Ward), less than 3 kilometers from the hypocenter. On August 6, after the bomb exploded, people who had been severely wounded, or were badly burned, were evacuated from the city center to his home. Mr. Kawasaki recalls the sight of a woman whose back was burned and the smell of charred bodies. Even today, he is haunted by the memories.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kawasaki was 16 years old when the atomic bombing took place. He had graduated from junior high school (under Japan’s old system of education) and was set to enter Hiroshima Normal School (now Hiroshima University). The school’s entrance ceremony had been delayed, however, so he was still at home, waiting. Then August 6 came. It was a hot morning and the cicadas were whirring. He was at home, having just finished tidying the house, when suddenly there was a bright flash in the sky.</p>\n\t\t\t\t<p class=\"body_en\">The windows of the house shattered, and panels from the ceiling fell. His left arm bleeding, Mr. Kawasaki fled the house and found the world outside dark and silent. It was an eerie feeling, he recalls.</p>\n\t\t\t\t<p class=\"body_en\">Afterward, people who were injured came to his house, seeking shelter. A few days later, he counted and found that there were a total of 29, including him and his family. Although most were relatives, some were strangers. One man’s leg bone was jutting out. A woman had been badly burned and the flesh on her back were now infested with maggots. Mr. Kawasaki helped prepare meals and went into the mountains to gather soil to cool their wounds.</p>\n\t\t\t\t<p class=\"body_en\">He remembers that, among the 29 people, around three died. He helped carry one woman on a board to Koi National School (present-day Koi Elementary School in Nishi Ward), near his home, to cremate the body.</p>\n\t\t\t\t<p class=\"body_en\">He saw scores of A-bomb victims at the school. Bodies were being cremated on the school yard, and the smell drifted to his house.</p>\n\t\t\t\t<p class=\"body_en\">After the war, Mr. Kawasaki became a junior high school English teacher. He was inspired to become an English teacher after encountering friendly soldiers from the Allied Forces during Japan’s postwar occupation.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kawasaki has actively opened his home to visitors from overseas and, since 1988, 99 people from 19 countries have stayed at his house. This includes people from Kazakhstan, which suffered repeated nuclear tests during the era of the former Soviet Union.</p>\n\t\t\t\t<p class=\"body_en\">Along with his wife Sachiko, 78, he is a member of the “Hiroshima-Semipalatinsk Project,” a citizens’ group engaged in providing medical support to Kazakhstan. “I want people to know about all the nuclear damage in the world,” Mr. Kawasaki said with conviction, “and I want to increase the number of people seeking to abolish nuclear weapons.”</p>\n\t\t\t\t<p class=\"body_en\">To today’s children and youth, he appeals: “If war is about to break out, take action with as many others as you can to stop it. There should never be another war.”</p>\n\t\t\t\t<p class=\"body_en\">As a first step toward peace, Mr. Kawasaki also offered the advice, “Let’s start making a good classroom atmosphere where everyone can talk about things freely without any bullying.” (Sakiko Masuda, Staff Writer)</p><p class=\"body_en\">(Originally published on February 25, 2013)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/26.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.42421487784,
+                34.400443690157,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.42421487784,
+                    34.400443690157,
+                    150,
+                    132.42421487784,
+                    34.400443690157,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en27",
+        "name": "Iwao Kimura",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Father and younger sisters lost to the atomic bomb</p><p class=\"image\"><img src=\"data/photo/iwao_kimura.jpg\"></p><p class=\"body_en\">Left school to start working / Shares experience in his tax</p><p class=\"body_en\">Iwao Kimura, 79, who was exposed to the atomic bomb when he was 13, shares his experiences with customers while working as a taxi driver. \"It was an enormous catastrophe that can't be imagined by looking at the city today,\" he said. \"I want to convey that fact, even if only a little.\"</p>\n\t\t\t\t<p class=\"body_en\">On the day of the bombing, he was in the Hiroshima Shipyard of Mitsubishi Heavy Industries (located in present-day Naka Ward), 4.3 kilometers from the hypocenter. Because of the shortage of workers for the war effort, students, including Mr. Kimura, had been mobilized to help. He was waiting for the signal to start working when the bomb flashed and the blast hit. He quickly covered his head. Leaving the building, he saw the mushroom cloud rising above the city. He was worried about his family so he tried to return home to the Hirosekita area, about 1 kilometer from the hypocenter, but he wasn’t able to approach his house due to the heat from the fire that had erupted. He retreated back to the shipyard, where he spent a sleepless night in an air raid shelter.</p>\n\t\t\t\t<p class=\"body_en\">He was reunited with his parents at an evacuation site, Furuichi Elementary School in today's Asaminami Ward. His father suffered only light injuries, but his mother had fallen unconscious as a result of burns and broken bones. He had seven siblings, who met a range of fates. An older brother, 18, was off fighting the war, while two other siblings had been evacuated before the bombing when groups of students left the city. An older sister, 16, who he was still living with, went missing, while a 2-year-old sister died near his home. His 6-year-old brother was at Tenma Elementary School when the bomb exploded, and his 4-year-old sister was trapped under their fallen house. His father was frantic to rescue her, but when the fire drew near, his father's friend pulled him away. \"I could feel my father's pain,\" Mr. Kimura said, explaining that when he learned about this incident after his father's death, he cried and cried.</p>\n\t\t\t\t<p class=\"body_en\">Soon after the relief he felt at being reunited with his parents, his father developed spots on his body and his hair fell out. These were the effects of the radiation he was exposed to when he went searching through the city for family members. He passed away on September 5. On a bank of the river near his school, he said goodbye as his father was cremated. \"How will I go on now?\" he wondered. It took all his strength just to stand there. Even now, when he passes by that river bank, he thinks of his father and says a prayer to the Buddha.</p>\n\t\t\t\t<p class=\"body_en\">After the war, Mr. Kimura went to live at a relative's house, along with his mother and remaining siblings. His mother had recovered from her injuries and was now working to provide for her children. Later, the family lived in a shack that they built in the Tenma area. The following spring, his younger brother Yuji, now 65, was born. But he was a tiny baby that could be held in two hands. It was eventually learned, with Yuji experiencing a delay in his development, that he had been exposed to the atomic bomb while in the womb and suffered A-bomb microcephaly.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kimura stopped going to school in order to work and lessen the burden his mother was bearing. When he was 16 years old, he wanted to strike out on his own and so he left Hiroshima for Osaka. He worked in a bakery, baking cakes and pies.</p>\n\t\t\t\t<p class=\"body_en\">At the age of 29, he returned to Hiroshima and started working as a taxi driver. But until he reached his late 30s, he was reluctant to talk about his experience of the bombing, for fear of being discriminated against. At the same time, he felt resentment toward his father for being unable to save his younger sister.</p>\n\t\t\t\t<p class=\"body_en\">However, when he met a passenger who was eager to hear about his experience, he came to feel encouraged to speak out more. \"It's because I became a taxi driver that I can talk about my experience of the atomic bombing,\" he said. “Being a taxi driver is my calling, and maybe it's my mission, too.\" As for his brother Yuji, he works for a dry cleaner. Because his mother, who took care of Yuji for many years, died in 1985, and his younger sister passed away in 2007, Mr. Kimura is now concerned about what the future holds for Yuji.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Kimura said he doesn't hold a grudge because of the bombing. He added, however, \"If the atomic bomb was used to test its effects on human beings, that would be a terrible thing.\" And as a message for today's youth, he said, \"I hope you will do all you can so a foolish war like that isn't fought again. Study hard and strengthen your thoughts for peace.\" (Sakiko Masuda, Staff Writer)</p><p class=\"body_en\">(Originally published on November 15, 2011)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/27.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.42854603917,
+                34.360302893113,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.42854603917,
+                    34.360302893113,
+                    150,
+                    132.42854603917,
+                    34.360302893113,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en29",
+        "name": "Shohei Maesue",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Fled from black rain, sought shelter beneath a bridge\nToo young to aid the many wounded\n</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-FkpsKUwpi_Y/VYQfA0WjUWI/AAAAAAAGL3o/wqkW8jifNyE/s320/%2525E5%252589%25258D%2525E6%25259C%2525AB%2525E6%2525AD%2525A3%2525E5%2525B9%2525B3%2525E3%252581%252595%2525E3%252582%252593.jpg\"></p>\n\t\t\t\t<p class=\"body_en\">Shohei Maesue experienced the atomic bombing at his home in Koi-cho, Hiroshima, part of present-day Nishi Ward, about 2.5 kilometers from the hypocenter. At the time the atomic bomb was dropped, on the morning of August 6, 1945, he was 8 years old and in the second grade. Accompanying his father, who served as a civil defense volunteer, Mr. Maesue went to Koi Station (part of present-day Nishi Ward) and the Sakaimachi district (part of present-day Naka Ward), and the sights he saw still haunt him. “I was too young to do anything to help. It’s clear that the atomic bombing was a crime against humanity. I oppose any sort of military conflict,” he said with conviction.</p>\n\t\t\t\t<p class=\"body_en\">When the bomb fell, he was at home with four members of his family. His father was getting ready to leave for work at his pharmacy in Sakaimachi. One sister, who was four years older, had remained at home because of illness instead of taking part in work for the war effort. Another sister, seven years older, had just returned home after missing the train to Miyajima, where she had been mobilized to work. Mr. Maesue was chatting with this sister and his mother at the front door.</p>\n\t\t\t\t<p class=\"body_en\">There was a great flash that lit up the whole house, which rocked on its foundation. The windows of the house shattered and the earthen walls collapsed. The house pitched to one side and the doors wouldn’t open. They managed to escape the wreckage, though, then were caught in the dark, radioactive rain that fell shortly after the explosion. Mr. Maesue’s short-sleeved shirt and shorts became wet and black, and the family fled to a spot beneath a bridge that spanned the Yahata River, which flowed in front of their house.</p>\n\t\t\t\t<p class=\"body_en\">Hearing the news that many injured people had fled to the area around Koi Station, his father decided to head in that direction to help, despite the rain that still fell. Joining his father, Mr. Maesue saw people whose clothes and skin were dangling from their bodies in tatters, making it hard to distinguish their identity, and others with gaping head wounds. Many of them were unable to move from where they had come to rest, probably relieved just to reach the station. He was impressed seeing his father nursing the victims with supplies he had taken from the house.</p>\n\t\t\t\t<p class=\"body_en\">Because of raging fire on August 6, they were unable to enter the Sakaimachi district. They tried again the next day, on August 7, and found only rubble where his father’s pharmacy had once stood. From a piece of glass that had melted like candy, thought to be from a cabinet, they located the spot where the building had been. They dug out some medicine from the basement and gave these supplies to the government. Two aunts on his father’s side, who lived near the pharmacy, went missing.</p>\n\t\t\t\t<p class=\"body_en\">After the war, Mr. Maesue and other children would stop vehicles of the Allied Forces in Japan when they drove down the main street near his house, asking them for gum and chocolate. “We said, ‘Those Australian soldiers in their cowboy hats are stingy, so let’s go to the American soldiers.’” he recalled. “No one talked about the United States dropping the atomic bomb.”</p>\n\t\t\t\t<p class=\"body_en\">He got married in 1967. The following year his first child, a daughter, was born, and after he confirmed that she was in good health, he confessed to his wife, Junko, that he was an atomic bomb survivor. But she replied, “I already knew.”</p>\n\t\t\t\t<p class=\"body_en\">In recent years he has come to feel that it is important to share accounts of the atomic bombing with the next generation. This sentiment was stirred by a book he read about the military history of Hiroshima from the Meiji Period to the end of World War II. He said, “I want to be able to explain to people, whose loved ones were soldiers and were killed in the bombing, where these soldiers were and what they were doing based on information about their unit.”\n\t\t\t\t</p>\n\t\t\t\t<p class=\"body_en\"> (Rie Nii, Staff Writer)</p><p class=\"body_en\">(Originally published on March 24, 2014)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/29.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.42451608507,
+                34.414584585452,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.42451608507,
+                    34.414584585452,
+                    150,
+                    132.42451608507,
+                    34.414584585452,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en30",
+        "name": "Kogiku Inou",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Thoughts grow for the mother she lost Took care of younger sisters, with no time to grieve</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-zGzsnd-prH0/VYQfDr7P0tI/AAAAAAAGL34/9SN917_BdZc/s320/%2525E7%2525A8%2525B2%2525E7%252594%25259F%2525E5%2525B0%25258F%2525E8%25258F%25258A%2525E3%252581%252595%2525E3%252582%252593.jpg\"></p><p class=\"body_en\"><p class=\"body_en\">Kogiku Inou (nee Nakajima), 83, a resident of Aki Ward, Hiroshima, still thinks of her mother, Koima, who was 38 at the time of the atomic bombing. Koima died before Ms. Inou could find her. “It might sound a little strange, but I now miss my mother even more than I once did,” she said. “I wish she had lived in a time of peace, like today.”</p>\n\t\t\t\t<p class=\"body_en\">On the day of the atomic bombing, August 6, 1945, Ms. Inou was at home alone. Their house was in Danbara-shinmachi (part of present-day Minami Ward), about 2.3 kilometers from the hypocenter. She was 15 years old, a third-year student at Hiroshima First Municipal Girls’ School (today’s Funairi High School). Though she had been mobilized to work at the Nishikaniya factory of Japan Steel Works (in Minami Ward), that day the factory was closed due to a lack of electricity.</p>\n\t\t\t\t<p class=\"body_en\">She was inside the house, hanging up the laundry, when there was a powerful flash, followed by a huge boom. The dust-filled blast hit her, and the roof fell in. Fortunately, she escaped serious injury.</p>\n\t\t\t\t<p class=\"body_en\">Her mother, along with her grandmother, had been mobilized as members of a volunteer corps and were sent to work in the vicinity of present-day Peace Memorial Park in Naka Ward. “I was worried about them, but I had no way of knowing that the atomic bomb had actually exploded near there,” she said. When her mother and grandmother didn’t return after evening fell, Ms. Inou decided to walk to a relative’s house in Hesaka (now part of Higashi Ward).</p>\n\t\t\t\t<p class=\"body_en\">However, that decision, which she came to regret, resulted in missing her mother twice.</p>\n\t\t\t\t<p class=\"body_en\">Four days after the bombing, she went to the burnt city center with her uncle. When she returned to her home, a neighbor told her that her mother, who had suffered serious burns, had come back the day after the A-bomb attack. Ms. Inou rued the fact that she had headed to Hesaka the night before.</p>\n\t\t\t\t<p class=\"body_en\">She scoured the schools nearby, where the injured were housed, but was unable to find her mother. Then, three months later, she received a notice from the police about her mother’s ashes. The whole picture of her mother’s ordeal was unclear, but she learned that Koima had arrived at Aosaki National School (today’s Aosaki Elementary School in Minami Ward) and passed away after saying her daughter’s name, Kogiku.</p>\n\t\t\t\t<p class=\"body_en\">Aosaki National School was one of the schools Ms. Inou had searched. She may have missed her mother there. “I’m a bad daughter,” she said. “Even now, whenever the bus passes by Asosaki Elementary School, I put my hands together and I pray for her.”</p>\n\t\t\t\t<p class=\"body_en\">After the war, she was too busy to properly grieve. In the fall of 1946, her father, who had been a soldier stationed in Taiwan, finally returned home. Until then, in place of her parents, she cared for her two younger sisters, 12 and 8, who had both been evacuated from the city before the bombing.</p>\n\t\t\t\t<p class=\"body_en\">Each morning she would rise at 5 a.m. and prepare lunch boxes for her younger sisters. She spoke with her sisters’ teachers. She also brought home money to keep the family afloat and repair the damaged house. For a long while, she was unable to attend school herself. “Junior high school and high school students today probably can’t imagine such a life,” she said. “I had no happiness at all.” When her father appeared in front of the house, after not knowing whether he was alive or dead, she just clung to him and sobbed. At that moment she returned to being a “child” again.</p>\n\t\t\t\t<p class=\"body_en\">Before her mother’s death, she had taught her daughter: “Do what you can do by yourself” and “Even if you end up alone, you have to go on.” Looking back at that time, Ms. Inou said, “My mother taught me how to cook. That gave me strength to survive after the atomic bombing.” After she graduated from school, she began working at a bank, and was employed there until she retired.</p>\n\t\t\t\t<p class=\"body_en\">She has twice developed breast cancer and keenly felt the horror of radiation caused by the atomic bombing. She now lives alone, after her husband’s death eight years ago. Still, the people around her praise her cheerful demeanor. She hopes young people today will be strong, and, with her own past in mind, she offered encouragement by saying, “Even when things look bleak, never give up.”</p>\n\t\t\t\t<p class=\"body_en\">Her passion for a form of short poetry called senryu gives her something to live for. One poem goes: “I want to show my mother, who perished in the atomic bombing, this city of buildings.” She made this poem with the wish that she could walk with her through the reconstructed city. In each of her poems is imbued the love she feels for her mother. </p>\n\t\t\t\t<p class=\"body_en\">(Eriko Shintani, Staff Writer)</p><p class=\"body_en\">(Originally published on April 28, 2014)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/30.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.47819790875,
+                34.388183787472,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.47819790875,
+                    34.388183787472,
+                    150,
+                    132.47819790875,
+                    34.388183787472,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en31",
+        "name": "Kazuko Kawada",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Overwhelming devastation numbed emotions Sense of loss, sadness grows stronger year after year</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-2KavJWBTEVA/VYQfCXVhvvI/AAAAAAAGL3w/tJCAO3BQ_Ww/s320/%2525E6%2525B2%2525B3%2525E7%252594%2525B0%2525E5%252592%25258C%2525E5%2525AD%252590%2525E3%252581%252595%2525E3%252582%252593.jpg\"></p><p class=\"body_en\">At the time of the atomic bombing, Kazuko Kawada (maiden name, Watanabe), 82, was 13, assumed to be a sensitive time in a young person’s life. But she felt numb when she saw A-bomb victims who no longer resembled human beings; when she was finally reunited with her mother Yone, then 51; and when she was searching for her missing father Waso. She felt no feelings of horror or sadness or happiness. When the dead were cremated, many of the corpses made a hissing sound when the abdomen erupted and orange-colored intestines began to flow out. But Ms. Kawada gazed at this sight in silence, without emotion. “It may have been because the event was so shocking,” she said while recounting her experience.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Kawada was a second-year student at First Hiroshima Prefectural Girls’ High School (now, Minami High School). She was working as a mobilized student at a factory producing airplane parts in the Takasu area (part of present-day Nishi Ward), about 2.5 kilometers from the hypocenter. In the deteriorating conditions of the war, mobilized students did not have much to do at the factory. Because that morning’s air raid warning was lifted, she was getting ready to go to the beach with classmates.</p>\n\t\t\t\t<p class=\"body_en\">When she heard the sound of an airplane, she looked out a window facing east and saw the white plume from a B-29 bomber in the sky. The moment she moved away from the window, she saw an orange flash and hid under a desk. Avoiding serious injury in the blast, she took refuge on a hill with other students.</p>\n\t\t\t\t<p class=\"body_en\">She wanted to return home to Ote-machi (part of Naka Ward), 500 meters from the hypocenter. But her teacher said that the city center was a sea of fire and she couldn’t go. In the evening, she walked to her father’s friend’s house, where she had evacuated to earlier, located in the village of Jigozen (now Hatsukaichi) to the west of Hiroshima. </p>\n\t\t\t\t<p class=\"body_en\">The skin of some survivors, heading on foot to safer locations, was peeling away from their bodies and their lips were protruding out. They didn’t look like human beings. “If I saw that sight now, I’d be so terrified that I couldn’t stand up,” Ms. Kawada said. “But I wasn’t scared at all.”</p>\n\t\t\t\t<p class=\"body_en\">At the house in Jigozen, she was reunited with her mother, who was there to get their belongings. Though she had finally managed to meet her mother, “I don’t remember feeling particularly happy to see her or feeling that I was now saved.”</p>\n\t\t\t\t<p class=\"body_en\">The next day she went with her mother and some others to the city center and dug through the remains of their home, which had burned to the ground. But they were unable to find her father or her uncle. They also found no clues as to what had become of her aunt, who was visiting her daughter’s home in Minami-Kanon-machi (now Nishi Ward). They searched through the city for their relatives for a week but could not locate any of them.</p>\n\t\t\t\t<p class=\"body_en\">More than a month later, remains that seemed to be those of her father and uncle were discovered. On September 17, after the powerful Makurazaki Typhoon struck the area, the bones of two people were found where the front door of their house had once been. “Whoever these bones belonged to, they’re here,” Ms. Kawada thought, and took the bones away to be buried.</p>\n\t\t\t\t<p class=\"body_en\">In late September, Ms. Kawada started to suffer internal bleeding from her throat and her intestines. Her hair fell out, too. But no medicine was available. Her mother prepared an infusion of dokudami herb every day. After three months or so, she began to get better. And the following year she was able to return to school. “It was thanks to the herb. Whenever I see those white dokudamiflowers, I feel life,” Ms. Kawada said and smiled.</p>\n\t\t\t\t<p class=\"body_en\">It was much later that she started to feel the weight of loss and sadness from losing the members of her family. Year after year, the feelings have grown deeper, and she is unable to bring herself to visit Peace Memorial Park on August 6. “It’s too painful to hear the siren, signaling that moment of silence when the bomb exploded,” she explained.</p>\n\t\t\t\t<p class=\"body_en\">She married Hiroo Kawada, now 86, in 1957. After her two children became independent, she started doing volunteer work in her fifties, assisting those with mental disabilities. As part of her volunteer activities, she paid a visit to the United States. “Hating the U.S. won’t lead anywhere,” she said. “Valuing people’s lives is my work to promote peace. Let’s put hatred behind us and have more exchange among the people of the world.” </p>\n\t\t\t\t<p class=\"body_en\">(Yuji Yamamoto, Staff Writer) </p><p class=\"body_en\">(Originally published on May 12, 2014)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/31.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45688383028,
+                34.37244011973,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45688383028,
+                    34.37244011973,
+                    150,
+                    132.45688383028,
+                    34.37244011973,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en33",
+        "name": "Akinori Okada",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Images of atomic bombing haunt dreams after sharing experience</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-FbG56uAK1bc/VYQfNgZ0REI/AAAAAAAGL4Y/Z8JDYDw-1eo/s320/%2525E5%2525B2%2525A1%2525E7%252594%2525B0%2525E6%252598%2525AD%2525E5%252585%2525B8%2525E3%252581%252595%2525E3%252582%252593.jpg\"></p><p class=\"body_en\">“Radiation is scary because its effects are invisible. After the atomic bombing, I faced discrimination because people thought I was faking illness,” said Akinori Okada, 86. Mr. Okada was 17 when he was exposed to the atomic bomb. For several years after the war, he suffered fatigue and weariness from the effects of the bomb’s radiation, the so-called “A-bomb lazy disease.” Though he wanted to work, he wasn’t strong enough, and others looked upon him coldly, as an idler.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Okada was a fourth-year student at Sotoku Junior High School when he experienced the atomic bombing. On August 6, 1945, he was assigned to work as a mobilized student at the former Hiroshima Army Ordnance Supply Depot (where Hiroshima University’s Kasumi Campus is located today) in the Kasumi area (now Minami Ward), located 2.7 kilometers from the hypocenter. He and his friends were resting in a brick building before the morning meeting. Their job that day was to pack rifles and ammunition in crates.</p>\n\t\t\t\t<p class=\"body_en\">Hearing the roar of airplanes, he stepped outside and saw B-29 bombers in the sky. He remembers how their duralumin bodies were shining so beautifully. As he was going back into the building, he was enveloped by a bluish white light and lost consciousness. “I didn’t hear the ‘don’ of ‘pikadon.’ I only remember ‘pika,’” he said, using the compound word made up of onomatopoeic expressions for the flash (“pika”) and the explosion (“don”) of the atomic bomb.</p>\n\t\t\t\t<p class=\"body_en\">When he came to, he found that he had been blown off his feet by the blast, to a corner of the room, and a pencil was stuck in his right palm. He saw people walking into the depot to ask soldiers for help, their skin dangling from their hands like pieces of string. He knew that something awful had happened. His teacher told him and his friends to stand by at home, so he and three classmates headed toward Hiroshima Station.</p>\n\t\t\t\t<p class=\"body_en\">They passed through the Danbara area (now Minami Ward), but they could not venture the Matoba-cho district (also Minami Ward) because of fires. So they decided to cross the Hijiyama and Sumiyoshi bridges to go to Yokogawa Station (now Nishi Ward). </p>\n\t\t\t\t<p class=\"body_en\">At Sumiyoshi Bridge, he heard his name called in a weak voice. It was one of his classmates who had been mobilized to help dismantle homes to create a fire lane in the Kakomachi district (now Naka Ward) in case of air raids. His body was pierced with a three-by-three centimeter timber from the abdomen to the back. Mr. Okada and his friends carried him on a wooden door, which they found on the riverside, to Koi Station (now Nishi Ward), where the classmate was loaded onto a military truck to transport the injured. </p>\n\t\t\t\t<p class=\"body_en\">Mr. Okada thinks that his own life was saved because he helped his friend. If he had gone through the center of Hiroshima to reach Yokogawa Station, he could have been exposed to a massive amount of radiation. Instead of crossing the heart of the city, he walked back to Obayashi (now Asakita Ward) where he sought temporary refuge. He then finally arrived home at 8 o’clock that evening.</p>\n\t\t\t\t<p class=\"body_en\">The following morning he had a high fever, of unknown origin, which lasted for more than two weeks. By the time the fever broke, the war had come to an end. After the war, he completed his schooling though he was unable to attend classes. Because of the “A-bomb lazy disease,” he was in poor physical condition for a long while.</p>\n\t\t\t\t<p class=\"body_en\">A major turning point came more than one year after the bombing. Mr. Okada was the fifth son of ten children. His parents had died before the war, and they lived with their aunt Tamie (then 23), who took care of the children, in the countryside to avoid air raids. The brothers and sisters decided to go back to Kinzagai in central Hiroshima where they used to live. There, they began running a tobacco shop. The area was a bustling place after the war, and their business took off. At the same time, he regained his health.</p>\n\t\t\t\t<p class=\"body_en\">Discrimination against A-bomb survivors affected his marriage prospects. His girlfriend’s mother would not accept him solely because he was an A-bomb survivor. Later, he married Sachiko. (Sachiko died in 2004 at the age of 71.) Neither Mr. Okada nor Sachiko, who was exposed to residual radiation when she entered Hiroshima shortly after the atomic bombing, told the other that they were a survivor. “I couldn’t tell her because I was afraid of prejudice,” said Mr. Okada, who learned that Sachiko was also a survivor when they had their first daughter. Though they were worried about the genetic effects of radiation on their daughter, thankfully, their two daughters have not shown any worrisome signs.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Okada said, “Images of the atomic bombing still haunt my dreams after I tell my account.” The terrible devastation wrought by the atomic bomb and the discrimination he experienced after the war are unwanted memories that he had long concealed even from his family. What changed his mind was the nuclear accident at the Fukushima No. 1 (Daiichi) nuclear power plant, run by the Tokyo Electric Power Company, which was triggered by the great earthquake and tsunami in March 2011. “Because I personally know the horrific effects of radiation, I have to share my experience with younger generations,” he thought. He plans to turn his account into a picture-card show [kamishibai, a traditional form of Japanese storytelling] so that children can easily grasp his experience.</p>\n\t\t\t\t<p class=\"body_en\">(Masanori Wada, Staff Writer) </p><p class=\"body_en\">(Originally published on November 3, 2014)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/33.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.47850351809,
+                34.380004585081,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.47850351809,
+                    34.380004585081,
+                    150,
+                    132.47850351809,
+                    34.380004585081,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en34",
+        "name": "Yoshitada Masamoto",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Father’s remains identified through embroidery: Kindness received in ruins will never be forgotten</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-s0PJCJSDUGc/VYQfPMO07JI/AAAAAAAGL4g/lmFHi1Hvppc/s320/%2525E6%2525AD%2525A3%2525E6%25259C%2525AC%2525E8%252589%2525AF%2525E5%2525BF%2525A0%2525E3%252581%252595%2525E3%252582%252593.jpg\"></p><p class=\"body_en\">When he was 12 years old, Yoshitada Masamoto, 82, lost his father and his home to the atomic bombing. With no income, savings or food, his mother and her three junior high school-age boys struggled to survive. Nothing sustained them more than the kindness they received from the people around them. “I survived because of the kindness of many people,” Mr. Masamoto said. “I’ll never forget how indebted I am to them.”</p>\n\t\t\t\t<p class=\"body_en\">At the time of the A-bombing Mr. Masamoto was a first-year student at the junior high school affiliated with the Hiroshima Higher Normal School (now the junior high school affiliated with Hiroshima University). He was to have worked on the demolition of buildings for fire breaks in the city, but thanks to the concern of a teacher who believed it was dangerous to stay in Hiroshima, he relocated to Hara-machi in Kamo-gun (now part of the city of Higashi Hiroshima), where he was a member of the Agricultural Volunteer Corps.</p>\n\t\t\t\t<p class=\"body_en\">On the morning of August 6, 1945, he was walking along a path between rice fields when he spotted a B-29 in the skies over Hiroshima. Before long a bright light flashed before his eyes and a warm breeze brushed his cheeks, although he was about 20 km away. Just after that the air shook with the sound of the blast, and the mushroom cloud rose beyond the hills. </p>\n\t\t\t\t<p class=\"body_en\">Later that day he learned that Hiroshima was in a shambles and that his mother was safe but his father was missing. He arrived in Hiroshima on August 18. He and a classmate walked from Hiroshima Station amid the skeletons of destroyed buildings and the smell of charred ruins. Water spewed from ruptured pipes. Funairi Nakamachi (now part of Naka Ward), where his home was located, was completely burned out.</p>\n\t\t\t\t<p class=\"body_en\">Mr. Masamoto’s father’s remains were found in June 1946. The charred remains of six or seven bodies were found under bricks at the ruins of an ice company his father had done business with in Tsukamoto-cho (now Dobashi-cho in Naka Ward). Among them was a femur around which was a legging with “Masamoto” written on it. The name had been embroidered on the legging by Mr. Masamoto’s mother. At that time Mr. Masamoto vowed to be strong and never cause his mother to worry. </p>\n\t\t\t\t<p class=\"body_en\">At the time of the atomic bombing his mother was at Hiroshima Station. She was uninjured. His eldest brother, a member of the Tsuiki Air Corps in Oita Prefecture, and his second eldest brother, a student who had been mobilized to work on Miyajima, returned home and their new life began. They put up a shack on the site of their home using wood that they gathered from the ruins. </p>\n\t\t\t\t<p class=\"body_en\">A tradesman who had been a member of the neighborhood community association cleaned off the tiles they scrounged up. At Mr. Masumoto’s suggestion, the family opened a shaved ice shop. A carpenter they knew erected the building for them. A family housed the Masamotos for a while before they constructed their own home. Many of those who helped the family said they did so out of gratitude for things Mr. Masamoto’s father had done for them in the past. Whenever he heard that, Mr. Masamoto recalled his hard-working father, who was always willing to help others. </p>\n\t\t\t\t<p class=\"body_en\">Mr. Masamoto engaged in volunteer activities while running a landscape gardening business. He was impressed by the actions of Takashi Nagai, the physician who treated the injuries of survivors despite being injured himself in the A-bombing of Nagasaki. Mr. Masamoto cares for a rose that was sent to Hiroshima by Dr. Nagai and planted on Peace Boulevard in Naka Ward. Thinking back, he feels he does it out of a sense of indebtedness for the many acts of kindness he received amid the ruins of Hiroshima. </p>\n\t\t\t\t<p class=\"body_en\">Although he was exposed to radiation upon entering the city, Mr. Masamoto is healthy and happy. “I don’t want young people to suffer as I did, so I have to tell the next generation about my experiences,” he said. Whenever he sees the petals of roses or cherry blossoms, he recalls the bright red of an oleander that bloomed amid the burned-out ruins and the solace and hope it gave him in those days. </p><p class=\"body_en\">(Takayuki Kamo, Staff Writer) </p><p class=\"body_en\">(Originally published on November 17, 2014)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/34.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.68901399962,
+                34.414880008418,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.68901399962,
+                    34.414880008418,
+                    150,
+                    132.68901399962,
+                    34.414880008418,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "kiokuwo_uketsugu_en35",
+        "name": "Setsuko Yamagiwa",
+        "description": "\n\t\t\t\t\t<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">Handing down memories of the A-bombing and its aftermath Worked as breadwinner while supporting younger siblings</p><p class=\"image\"><img src=\"https://lh3.googleusercontent.com/-mXDkmz-zjJ8/VYQfHvvjW-I/AAAAAAAGL4I/mK5_tCEDKMs/s320/%2525E5%2525B1%2525B1%2525E9%25259A%25259B%2525E7%2525AF%252580%2525E5%2525AD%252590%2525E3%252581%252595%2525E3%252582%252593.jpg\"></p><p class=\"body_en\">Setsuko Yamagiwa, 86, lost her father, Masaichi, to the atomic bombing. At the time, he was 38 years old and worked for the Hiroshima prefectural government. Without her father, the family fell into poverty and the future looked bleak. At the age of 17, she had no choice but to become the breadwinner for her family. Meanwhile, she helped her mother, who was in poor health, raise her two younger sisters and one young brother.</p>\n\t\t\t\t<p class=\"body_en\">Her father began working for the Chugoku Regional Superintendency-General, located on the grounds of the Hiroshima University of Literature and Science (today’s Hiroshima University) and other sites, in June 1945. The day before the A-bomb attack was a Sunday. Ms. Yamagiwa’s family had a happy dinner with the whole family in the village of Yahata in Hiroshima Prefecture (part of present-day Saeki Ward, Hiroshima City), to where they had evacuated earlier. It remains Ms. Yamagiwa’s last memory of her family all together.</p>\n\t\t\t\t<p class=\"body_en\">On August 6, Ms. Yamagiwa had a fever, so she stayed in bed and was absent from her work as a mobilized student at a factory in the Eba district (in today’s Naka Ward). Then she heard her mother, Masako, screaming, “The sun has split in two!” When she looked in the direction of the city center, she saw huge columns of flame rising in the sky over Hiroshima. Her father did not return that night.</p>\n\t\t\t\t<p class=\"body_en\">The following morning, Ms. Yamagiwa and her mother left at dawn to search for her father. They combed the area where he worked and looked for him in the Kamiya-cho district, where they heard he might have gone. The rivers and burnt land were choked with victims of the blast. The dead were in heaps inside charred streetcars. Hoping to spot her father’s distinctive trousers and lunchbox, Ms. Yamagiwa spent the next two months wandering through relief shelters and cremation sites, but was unable to find him.</p>\n\t\t\t\t<p class=\"body_en\">In March 1946, Ms. Yamagiwa graduated from high school. With her family, she then moved to the village of Ono, in the eastern part of Hiroshima Prefecture, where her mother had lived before she got married. There she became a substitute teacher at a local elementary school. But a year or so later, feeling awkward about living in a relative’s home, they returned to Hiroshima.</p>\n\t\t\t\t<p class=\"body_en\">After becoming a teacher at Honkawa Elementary School (in today’s Naka Ward), her day was filled with children. But in the evening, too, she and other members of her family continued working at part-time jobs. Her only solace was singing songs with her three siblings when they lay in their futons at night.</p>\n\t\t\t\t<p class=\"body_en\">When she was 22, Ms. Yamagiwa came down with tuberculosis (TB), a deadly disease at that time. With thoughts of her siblings in her head, she was determined not to die. Her recovery took three years, but the fact that she was able to still receive part of her salary was a great relief. During the time she was hospitalized, survival itself became her work. Each morning she awoke in her sick bed, still alive, was a cause to give thanks.</p>\n\t\t\t\t<p class=\"body_en\">Ms. Yamagiwa did not marry. It was an era when balancing work and family was difficult. Taking her mother and her brother, who went on to college, into account, she refrained from getting married, although the chance had come her way. Although she did not begin a new family, her siblings, who she watched grow and go off to live adult lives, were like her own children.</p>\n\t\t\t\t<p class=\"body_en\">After the atomic bombing, which she bitterly resents, she lived an anxious life each day, faced with poverty and illness. On August 6, 1999, about 10 years after she retired as the principal of Yoshijima Elementary School in Naka Ward, she heard these unforgettable words in the mayor’s annual Peace Declaration:</p>\n\t\t\t\t<p class=\"body_en\">“They hovered between life and death in a corpse-strewn sea of rubble and ruin--circumstances under which none would have blamed them had they chosen death. Yet they chose life. We should never forget the will and courage that made it possible for the hibakusha to continue to be human.” Hearing these words, Ms. Yamagiwa wept without end. She said, “The many hardships I faced made me think that I’d rather die. But I held out. I felt like my efforts were acknowledged when I heard those words.”</p>\n\t\t\t\t<p class=\"body_en\">It is unclear whether her experience of the bombing, when she entered the city in the aftermath of the blast, is connected to her recent illness, but in the fall she underwent surgery for cancer. Ms. Yamagiwa feels that sharing her experiences with children is the final work of her life. She sees the children who listen to her as her siblings, back when they were young. She tells them, “When the atomic bomb was dropped, my younger sisters and brother were about your age. Please think about the atomic bombing as something that happened to you, too. No matter what, we must not wage war again.”</p>\n<p class=\"body_en\">(Takeshi Kikumoto, Staff Writer)</p><p class=\"body_en\">(Originally published on December 1, 2014)</p></div><div class=\"reference\"><p class=\"reference\"><a href=\"http://www.hiroshimapeacemedia.jp/\" target=\"_blank\">The Chugoku Shimbun</a></p></div></div>\n\t\t\t\t",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/kiokuwo_uketsugu/35.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4573541626,
+                34.380450998331,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4573541626,
+                    34.380450998331,
+                    150,
+                    132.4573541626,
+                    34.380450998331,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

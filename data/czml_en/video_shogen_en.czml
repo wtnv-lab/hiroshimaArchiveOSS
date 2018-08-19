@@ -1,0 +1,1371 @@
+[
+    {
+        "id": "document",
+        "name": "video_shogen_en",
+        "version": "1.0"
+    },
+    {
+        "id": "video_shogen_en1",
+        "name": "Takeharu Okuda",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/TYFzJIrsPD8\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/1.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.62935946382,
+                34.228602858636,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.62935946382,
+                    34.228602858636,
+                    300,
+                    132.62935946382,
+                    34.228602858636,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en2",
+        "name": "Shirou Doi",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/9vFPligODXE\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/2.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45025637797,
+                34.415823820341,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45025637797,
+                    34.415823820341,
+                    300,
+                    132.45025637797,
+                    34.415823820341,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en3",
+        "name": "Shigeru Imanaka",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/PrmSl6sLYMY\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/3.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.74337033102,
+                34.430775952321,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.74337033102,
+                    34.430775952321,
+                    300,
+                    132.74337033102,
+                    34.430775952321,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en4",
+        "name": "Shozo Munefuji",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/JhLr2x4TxYM\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/4.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45278302328,
+                34.382232668231,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45278302328,
+                    34.382232668231,
+                    300,
+                    132.45278302328,
+                    34.382232668231,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en5",
+        "name": "Fumiko Nomura",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/hui1ndxLH5g\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/5.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46427769073,
+                34.441761079003,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46427769073,
+                    34.441761079003,
+                    300,
+                    132.46427769073,
+                    34.441761079003,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en6",
+        "name": "Hisayo Mori",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/EM0jnE7Zywg\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/6.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.38615625349,
+                34.384322938557,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.38615625349,
+                    34.384322938557,
+                    300,
+                    132.38615625349,
+                    34.384322938557,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en7",
+        "name": "Naomi Akagi",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/h-l0V6baaSI\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/7.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.27702944347,
+                34.72547614651,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.27702944347,
+                    34.72547614651,
+                    300,
+                    132.27702944347,
+                    34.72547614651,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en8",
+        "name": "Atsuko Kohno",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/KYg2t8xxTNc\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/8.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44107664163,
+                34.395263708359,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44107664163,
+                    34.395263708359,
+                    300,
+                    132.44107664163,
+                    34.395263708359,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en9",
+        "name": "Junko Tabe",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/hHrwThEkfT8\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/9.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46706063452,
+                34.398180694041,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46706063452,
+                    34.398180694041,
+                    300,
+                    132.46706063452,
+                    34.398180694041,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en10",
+        "name": "Noriyuki Satou",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/qnpH251_ZEo\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/10.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.47568954452,
+                34.396670594949,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.47568954452,
+                    34.396670594949,
+                    300,
+                    132.47568954452,
+                    34.396670594949,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en11",
+        "name": "Kanji Yamazaki",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"https://www.youtube.com/embed/videoseries?list=PLGXp_sgOswzd3g8qr2Tnn4NqXbEppOeE9\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/11.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.43526339081,
+                34.390625031399,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.43526339081,
+                    34.390625031399,
+                    300,
+                    132.43526339081,
+                    34.390625031399,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en12",
+        "name": "Keizaburou Toyonaga",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/WEIADrgN45Q\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/12.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.51496626257,
+                34.340167957122,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.51496626257,
+                    34.340167957122,
+                    300,
+                    132.51496626257,
+                    34.340167957122,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en13",
+        "name": "Sumiko Ogata",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/-YW1atWGBdY\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/13.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4449470462,
+                34.389377369068,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4449470462,
+                    34.389377369068,
+                    300,
+                    132.4449470462,
+                    34.389377369068,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en14",
+        "name": "Kiyoko and Kimiteru Imori",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/Iqz6ODgSEe0\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/14.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45044,
+                34.395333,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45044,
+                    34.395333,
+                    300,
+                    132.45044,
+                    34.395333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en15",
+        "name": "M.S",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/wz3WlS-sfzc\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/15.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4706192888,
+                34.394079752514,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4706192888,
+                    34.394079752514,
+                    300,
+                    132.4706192888,
+                    34.394079752514,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en16",
+        "name": "Kunichi Fujimoto",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/5gn7b-CY4Ck\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/16.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.43153805556,
+                34.311241232357,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.43153805556,
+                    34.311241232357,
+                    300,
+                    132.43153805556,
+                    34.311241232357,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en17",
+        "name": "Yoshiko Yanagawa",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/Rfg6wbflzMI\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/17.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45937441116,
+                34.379869415199,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45937441116,
+                    34.379869415199,
+                    300,
+                    132.45937441116,
+                    34.379869415199,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en18",
+        "name": "Mitsunori Yagawa",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/VJuNsjrl_wc\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/18.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45395532328,
+                34.385744919698,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45395532328,
+                    34.385744919698,
+                    300,
+                    132.45395532328,
+                    34.385744919698,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en19",
+        "name": "Hisako Nomura",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/yACaXD4OJL0\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/19.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44629881708,
+                34.394481637646,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44629881708,
+                    34.394481637646,
+                    300,
+                    132.44629881708,
+                    34.394481637646,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en20",
+        "name": "Mari Tsuruta",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/2wk0_qJQTKs\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/20.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45057657663,
+                34.409681254783,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45057657663,
+                    34.409681254783,
+                    300,
+                    132.45057657663,
+                    34.409681254783,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en21",
+        "name": "Teruko Ueno",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/YmK9fvqivBA\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/21.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4536248747,
+                34.380600967637,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4536248747,
+                    34.380600967637,
+                    300,
+                    132.4536248747,
+                    34.380600967637,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en22",
+        "name": "Hiroshi Hosokawa",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/OnpUy4ubIeE\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/22.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46350408644,
+                34.404311711574,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46350408644,
+                    34.404311711574,
+                    300,
+                    132.46350408644,
+                    34.404311711574,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en23",
+        "name": "Suzuko Numata",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/Zljp0IYrfpk\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/23.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46425836589,
+                34.404188792552,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46425836589,
+                    34.404188792552,
+                    300,
+                    132.46425836589,
+                    34.404188792552,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en24",
+        "name": "Sunao Tsuboi",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/Ovx5TNfCR0o\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/24.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46040775057,
+                34.386489760968,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46040775057,
+                    34.386489760968,
+                    300,
+                    132.46040775057,
+                    34.386489760968,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en25",
+        "name": "Hiroko Kawamoto",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/YFU3KUd6JXY\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/25.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.465524,
+                34.398141,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.465524,
+                    34.398141,
+                    300,
+                    132.465524,
+                    34.398141,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en26",
+        "name": "Fumie Toyoda",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/IKz2q1AMNlk\" frameborder=\"0\" allowfullscreen></iframe></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/26.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46922638041,
+                34.366304387763,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46922638041,
+                    34.366304387763,
+                    300,
+                    132.46922638041,
+                    34.366304387763,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+   {
+        "id": "video_shogen_en27",
+        "name": "Setsuko Enya",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/cFtnOIn579k\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/27.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.470774,
+                34.386452,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.470774,
+                    34.386452,
+                    300,
+                    132.470774,
+                    34.386452,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en28",
+        "name": "Sueko Hayama",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/vQ9mMezqECU\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/28.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.5034826791413,
+                34.37389468621631,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.5034826791413,
+                    34.37389468621631,
+                    300,
+                    132.5034826791413,
+                    34.37389468621631,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen_en29",
+        "name": "Teruko Niwaki and Setsumi Takabayashi",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/xzXjDdsl08M\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/29.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.5040063749167,
+                34.37337268334991,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.5040063749167,
+                    34.37337268334991,
+                    300,
+                    132.5040063749167,
+                    34.37337268334991,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen30",
+        "name": "Tsuneyoshi Hayama",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/ZPWkFET5R8w\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">Hiroshima Jogakuin Junior & Senior High School</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/30.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4771309128041,
+                34.39645548707288,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4771309128041,
+                    34.39645548707288,
+                    300,
+                    132.4771309128041,
+                    34.39645548707288,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen32",
+        "name": "Megumi Shinoda",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/NjMB-i4Kd78\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">Interviewed by Miho Shinoda</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/32.png",
+            "scale": 0.6,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.460488,
+                34.421055,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.460488,
+                    34.421055,
+                    300,
+                    132.460488,
+                    34.421055,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

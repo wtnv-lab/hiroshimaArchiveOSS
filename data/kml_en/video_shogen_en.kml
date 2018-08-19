@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>video_shogen</name>
+		<open>1</open>
+		<StyleMap id="style_video_shogen5">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen5_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen5_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen9_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/9.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen27">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen27_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen27_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="style_video_shogen26">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen26_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen26_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen27_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/27.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen26_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/26.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen1_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/1.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen12_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/12.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen19">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen19_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen19_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="style_video_shogen9">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen9_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen9_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen10_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/10.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen15_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/15.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen18_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/18.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen7">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen7_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen7_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen24_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/24.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen8_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/8.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen8_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/8.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen11">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen11_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen11_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen20_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/20.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen6_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/6.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen15_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/15.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen17_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/17.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen3_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/3.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen14_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/14.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen3_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/3.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen21">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen21_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen21_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen14_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/14.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen27_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/27.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen26_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/26.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen13">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen13_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen13_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen5_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/5.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen12">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen12_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen12_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen4_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/4.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen25">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen25_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen25_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen23_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/23.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen25_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/25.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen18_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/18.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen2_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/2.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen6_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/6.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen23_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/23.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen4">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen4_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen4_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen25_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/25.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen13_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/13.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen11_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/11.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen9_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/9.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen10">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen10_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen10_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="style_video_shogen15">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen15_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen15_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen12_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/12.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen10_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/10.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen4_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/4.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen13_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/13.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen23">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen23_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen23_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen16_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/16.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen1_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/1.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen17">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen17_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen17_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="style_video_shogen24">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen24_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen24_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen2_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/2.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen22_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/22.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen16">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen16_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen16_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen16_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/16.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen20_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/20.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen7_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/7.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen7_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/7.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen21_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/21.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen18">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen18_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen18_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen19_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/19.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen17_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/17.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen21_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/21.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen19_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/19.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen20">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen20_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen20_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen11_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/11.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen8">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen8_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen8_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="style_video_shogen2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen2_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen2_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="style_video_shogen1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen1_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen1_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen22_normal">
+			<IconStyle>
+				<scale>1.4</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/22.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<Style id="style_video_shogen24_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/24.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen22">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen22_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen22_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="style_video_shogen14">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen14_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen14_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="style_video_shogen6">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen6_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen6_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="style_video_shogen5_highlight">
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>http://hiroshima.archiving.jp/web3d/kml/icon/video_shogen/5.png</href>
+				</Icon>
+			</IconStyle><LabelStyle><scale>0</scale></LabelStyle><LineStyle><color>22ffc5ca</color></LineStyle>
+		</Style>
+		<StyleMap id="style_video_shogen3">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#style_video_shogen3_normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#style_video_shogen3_highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder>
+			<open>1</open>
+			<Placemark id="video_shogen1">
+				<name>Takeharu Okuda</name>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/TYFzJIrsPD8" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen1</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.6293594638182,34.22860285863626,300</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen2">
+				<name>Shirou Doi</name>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/9vFPligODXE" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen2</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4502563779677,34.41582382034089,300</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen3">
+				<name>Shigeru Imanaka</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/PrmSl6sLYMY" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen3</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.7433703310156,34.43077595232101,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen4">
+				<name>Shozo Munefuji</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/JhLr2x4TxYM" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen4</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4527830232817,34.38223266823096,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen5">
+				<name>Fumiko Nomura</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/hui1ndxLH5g" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen5</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4642776907331,34.44176107900284,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen6">
+				<name>Hisayo Mori</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/EM0jnE7Zywg" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen6</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.3861562534908,34.38432293855733,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen7">
+				<name>Naomi Akagi</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/h-l0V6baaSI" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen7</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.277029443474,34.72547614651035,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen8">
+				<name>Atsuko Kohno</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/KYg2t8xxTNc" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen8</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.441076641632,34.39526370835944,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen9">
+				<name>Junko Tabe</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/hHrwThEkfT8" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen9</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4670606345226,34.39818069404144,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen10">
+				<name>Noriyuki Satou</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/qnpH251_ZEo" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen10</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4756895445201,34.39667059494891,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen11">
+				<name>Kanji Yamazaki</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/L5QU4M36sbA" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen11</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4352633908096,34.39062503139901,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen12">
+				<name>Keizaburou Toyonaga</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/WEIADrgN45Q" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen12</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.5149662625701,34.34016795712239,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen13">
+				<name>Sumiko Ogata</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/-YW1atWGBdY" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen13</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4449470461961,34.3893773690679,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen14">
+				<name>Kiyoko and Kimiteru Imori</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/Iqz6ODgSEe0" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen14</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.45044,34.395333,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen15">
+				<name>M.S</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/wz3WlS-sfzc" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen15</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4706192887992,34.39407975251359,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen16">
+				<name>Kunichi Fujimoto</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/5gn7b-CY4Ck" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen16</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.431538055558,34.31124123235665,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen17">
+				<name>Yoshiko Yanagawa</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/Rfg6wbflzMI" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen17</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4593744111642,34.37986941519944,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen18">
+				<name>Mitsunori Yagawa</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/VJuNsjrl_wc" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen18</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.453955323276,34.38574491969848,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen19">
+				<name>Hisako Nomura</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/yACaXD4OJL0" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen19</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4462988170772,34.39448163764627,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen20">
+				<name>Mari Tsuruta</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/2wk0_qJQTKs" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen20</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4505765766334,34.40968125478294,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen21">
+				<name>Teruko Ueno</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/YmK9fvqivBA" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen21</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4536248747025,34.38060096763701,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen22">
+				<name>Hiroshi Hosokawa</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/OnpUy4ubIeE" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen22</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4635040864411,34.40431171157358,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen23">
+				<name>Suzuko Numata</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/Zljp0IYrfpk" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen23</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4642583658935,34.4041887925523,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen24">
+				<name>Sunao Tsuboi</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/Ovx5TNfCR0o" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen24</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4604077505679,34.38648976096801,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen25">
+				<name>Hiroko Kawamoto</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/YFU3KUd6JXY" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen25</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.465524,34.398141,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen26">
+				<name>Fumie Toyoda</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/IKz2q1AMNlk" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen26</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.4692263804068,34.36630438776328,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="video_shogen27">
+				<name>Setsuko Enya</name>
+				<open>1</open>
+				<description>
+					<![CDATA[<div class="video"><p class="image"><iframe width="297px" height="163px" src="http://www.youtube.com/embed/cFtnOIn579k" frameborder="0" allowfullscreen></iframe></div><div class="video_reference"><p class="reference">Hiroshima Jogakuin Junior & Senior High School</p></div>]]>
+				</description>
+				<styleUrl>#style_video_shogen27</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>132.470774,34.386452,300.0000000000001</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

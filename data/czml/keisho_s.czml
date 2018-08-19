@@ -1,0 +1,51 @@
+[
+    {
+        "id": "document",
+        "name": "maeza",
+        "version": "1.0"
+    },
+    {
+        "id": "maeza1",
+        "name": "前座良明",
+        "description": "<div class=\"balloon\"><div class=\"shogen\"><p class=\"image\"><img src=\"data/photo/yoshiaki_maeza.jpg\"></p><p class=\"body\">私は１９４０年（昭和１５年）、２０歳の時に徴兵され、入隊した現役兵。当時の国民の三大義務は、納税と教育と兵役だった。</p><p class=\"body\">今まで、どこで話をするときも、原爆の話をずっとしてきたが、今は戦争の話をしてくれと頼まれることもある。私は戦場と被爆の両方を経験した。これは絶対に人が体験する必要のないもの。この2つの経験は私たちだけでいい。もう二度とこんなことが起きちゃいけない。</p><p class=\"body\">（松本でのエピソード）</p><p class=\"body\">1961年、すでに結婚して子どももいた前座さんは、自分がいつ死ぬかわからない、残される家族が生活できるようにと、借金して松本市内の信州大学前に食堂を開店します。</p><p class=\"body\">食堂の名前を何にしようかなと考えていると、姉の息子が「おじいちゃん、いつも原爆原爆って言ってるじゃない」と言います。そこで、前座さんが「そうだなあ、いつも言ってるなあ」というと、甥は「だったら、あっさりピカドンにしたら」といったそうです。前座さんは、なるほど、それも面白いなと、ずばり「ピカドン」という名にしたのでした。</p><p class=\"body\"><a href=\"https://drive.google.com/open?id=0B7uKeVg3VJZRN0ZfTF9KOEZiT1E\" target=\"_blank\">（続きは本文で）</a></p></div><div class=\"reference\"><p class=\"reference\">ノーモア・ヒバクシャ記憶遺産を継承する会</p></div></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/keisho/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4671397,
+                34.3529063,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4671397,
+                    34.3529063,
+                    150,
+                    132.4671397,
+                    34.3529063,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

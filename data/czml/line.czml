@@ -1,0 +1,410 @@
+[
+    {
+        "id": "document",
+        "name": "lineJson",
+        "version": "1.0"
+    },
+    {
+        "id": 0,
+        "name": "Hidenori Watanave",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Dear Mr. Iwasa, I would like to meet you again. from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -72.924,
+                    41.3094,
+                    0,
+                    132.46041754642,
+                    34.386541320143,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "Hidenori Watanave",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Peaceful world. from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -72.924,
+                    41.3094,
+                    0,
+                    132.45470656778,
+                    34.394782169143,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Hidenori Watanave",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Dear Ms. Setsuko, I would like to you visit our conference. from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -72.924,
+                    41.3094,
+                    0,
+                    132.4737929503,
+                    34.401083239288,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bostonian",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Dear Mr. Iwasa... from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -71.1056,
+                    42.3751,
+                    0,
+                    132.46041754642,
+                    34.386541320143,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Bostonian",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Hello... from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -71.1056,
+                    42.3751,
+                    0,
+                    132.46272831257,
+                    34.395789436128,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Bostonian",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Mushroom clouds... from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -71.1056,
+                    42.3751,
+                    0,
+                    132.41300872884,
+                    34.462376679051,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Ground Zero",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">I don't like such a fireball! from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -72.924,
+                    41.3094,
+                    0,
+                    132.45470656778,
+                    34.394799081663,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "PeaceMaker",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Your talk is fascinating. from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -72.924,
+                    41.3094,
+                    0,
+                    132.48262343371,
+                    34.389947189122,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "American",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Atomics from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -72.924,
+                    41.3094,
+                    0,
+                    132.45470656778,
+                    34.394782169143,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "HW",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">I agree with you. from JP</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    138,
+                    36,
+                    0,
+                    132.44295444587,
+                    34.385661424365,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Bostonian",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Yes, Indeed. from JP</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    138,
+                    36,
+                    0,
+                    132.45118569989,
+                    34.412397654798,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "American",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">Touching story. from JP</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    138,
+                    36,
+                    0,
+                    132.46095115819,
+                    34.408177429566,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "渡邉英徳",
+        "followSurface": true,
+        "description": "<div class=\"lineMessage\">時事通信社から提供されたデータにより，以前，児玉さんにいただいた「定量的なデータ」を掲載することができました．近々，お見せしたいです． from US</div>",
+        "polyline": {
+            "width": 1.75,
+            "positions": {
+                "cartographicDegrees": [
+                    -71.1056,
+                    42.3751,
+                    0,
+                    132.45790620365,
+                    34.387074137544,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            3,
+                            221,
+                            255,
+                            48
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

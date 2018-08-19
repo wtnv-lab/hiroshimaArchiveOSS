@@ -1,0 +1,1415 @@
+[
+    {
+        "id": "document",
+        "name": "video_shogen",
+        "version": "1.0"
+    },
+    {
+        "id": "video_shogen1",
+        "name": "奥田武晴",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/TYFzJIrsPD8\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/1.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.62935946382,
+                34.228602858636,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.62935946382,
+                    34.228602858636,
+                    300,
+                    132.62935946382,
+                    34.228602858636,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen2",
+        "name": "土井史郎",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/9vFPligODXE\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/2.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45025637797,
+                34.415823820341,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45025637797,
+                    34.415823820341,
+                    300,
+                    132.45025637797,
+                    34.415823820341,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen3",
+        "name": "今中茂",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/PrmSl6sLYMY\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/3.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.74337033102,
+                34.430775952321,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.74337033102,
+                    34.430775952321,
+                    300,
+                    132.74337033102,
+                    34.430775952321,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen4",
+        "name": "宗藤尚三",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/JhLr2x4TxYM\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/4.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45278302328,
+                34.382232668231,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45278302328,
+                    34.382232668231,
+                    300,
+                    132.45278302328,
+                    34.382232668231,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen5",
+        "name": "野村文子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/hui1ndxLH5g\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/5.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46427769073,
+                34.441761079003,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46427769073,
+                    34.441761079003,
+                    300,
+                    132.46427769073,
+                    34.441761079003,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen6",
+        "name": "森匡世",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/EM0jnE7Zywg\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/6.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.38615625349,
+                34.384322938557,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.38615625349,
+                    34.384322938557,
+                    300,
+                    132.38615625349,
+                    34.384322938557,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen7",
+        "name": "赤木直美",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/h-l0V6baaSI\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/7.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.27702944347,
+                34.72547614651,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.27702944347,
+                    34.72547614651,
+                    300,
+                    132.27702944347,
+                    34.72547614651,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen8",
+        "name": "河野敦子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/KYg2t8xxTNc\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/8.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44107664163,
+                34.395263708359,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44107664163,
+                    34.395263708359,
+                    300,
+                    132.44107664163,
+                    34.395263708359,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen9",
+        "name": "田部恂子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/hHrwThEkfT8\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/9.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46706063452,
+                34.398180694041,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46706063452,
+                    34.398180694041,
+                    300,
+                    132.46706063452,
+                    34.398180694041,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen10",
+        "name": "佐藤法行",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/qnpH251_ZEo\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/10.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.47568954452,
+                34.396670594949,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.47568954452,
+                    34.396670594949,
+                    300,
+                    132.47568954452,
+                    34.396670594949,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen11",
+        "name": "山崎寛治",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"https://www.youtube.com/embed/videoseries?list=PLGXp_sgOswzd3g8qr2Tnn4NqXbEppOeE9\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/11.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.43526339081,
+                34.390625031399,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.43526339081,
+                    34.390625031399,
+                    300,
+                    132.43526339081,
+                    34.390625031399,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen12",
+        "name": "豊永恵三郎",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/WEIADrgN45Q\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/12.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.51496626257,
+                34.340167957122,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.51496626257,
+                    34.340167957122,
+                    300,
+                    132.51496626257,
+                    34.340167957122,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen13",
+        "name": "小方澄子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/-YW1atWGBdY\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/13.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4449470462,
+                34.389377369068,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4449470462,
+                    34.389377369068,
+                    300,
+                    132.4449470462,
+                    34.389377369068,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen14",
+        "name": "居森清子・公照",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/Iqz6ODgSEe0\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/14.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45044,
+                34.395333,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45044,
+                    34.395333,
+                    300,
+                    132.45044,
+                    34.395333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen15",
+        "name": "M.S",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/wz3WlS-sfzc\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/15.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4706192888,
+                34.394079752514,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4706192888,
+                    34.394079752514,
+                    300,
+                    132.4706192888,
+                    34.394079752514,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen16",
+        "name": "冨士本君一",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/5gn7b-CY4Ck\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/16.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.43153805556,
+                34.311241232357,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.43153805556,
+                    34.311241232357,
+                    300,
+                    132.43153805556,
+                    34.311241232357,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen17",
+        "name": "柳川良子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/Rfg6wbflzMI\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/17.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45937441116,
+                34.379869415199,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45937441116,
+                    34.379869415199,
+                    300,
+                    132.45937441116,
+                    34.379869415199,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen18",
+        "name": "矢川光則",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/VJuNsjrl_wc\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/18.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45395532328,
+                34.385744919698,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45395532328,
+                    34.385744919698,
+                    300,
+                    132.45395532328,
+                    34.385744919698,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen19",
+        "name": "野村久子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/yACaXD4OJL0\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/19.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.44629881708,
+                34.394481637646,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.44629881708,
+                    34.394481637646,
+                    300,
+                    132.44629881708,
+                    34.394481637646,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen20",
+        "name": "鶴田マリ",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/2wk0_qJQTKs\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/20.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.45057657663,
+                34.409681254783,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.45057657663,
+                    34.409681254783,
+                    300,
+                    132.45057657663,
+                    34.409681254783,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen21",
+        "name": "上野照子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/YmK9fvqivBA\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/21.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4536248747,
+                34.380600967637,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4536248747,
+                    34.380600967637,
+                    300,
+                    132.4536248747,
+                    34.380600967637,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen22",
+        "name": "細川浩史",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/OnpUy4ubIeE\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/22.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46350408644,
+                34.404311711574,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46350408644,
+                    34.404311711574,
+                    300,
+                    132.46350408644,
+                    34.404311711574,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen23",
+        "name": "沼田鈴子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/Zljp0IYrfpk\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/23.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46425836589,
+                34.404188792552,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46425836589,
+                    34.404188792552,
+                    300,
+                    132.46425836589,
+                    34.404188792552,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen24",
+        "name": "坪井直",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/Ovx5TNfCR0o\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/24.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46040775057,
+                34.386489760968,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46040775057,
+                    34.386489760968,
+                    300,
+                    132.46040775057,
+                    34.386489760968,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen25",
+        "name": "川本博子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/YFU3KUd6JXY\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/25.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.465524,
+                34.398141,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.465524,
+                    34.398141,
+                    300,
+                    132.465524,
+                    34.398141,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen26",
+        "name": "豊田文枝",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/IKz2q1AMNlk\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/26.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.46922638041,
+                34.366304387763,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.46922638041,
+                    34.366304387763,
+                    300,
+                    132.46922638041,
+                    34.366304387763,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen27",
+        "name": "塩冶節子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/cFtnOIn579k\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/27.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.470774,
+                34.386452,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.470774,
+                    34.386452,
+                    300,
+                    132.470774,
+                    34.386452,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen28",
+        "name": "羽山末子",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/vQ9mMezqECU\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/28.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.5034826791413,
+                34.37389468621631,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.5034826791413,
+                    34.37389468621631,
+                    300,
+                    132.5034826791413,
+                    34.37389468621631,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen29",
+        "name": "庭木輝子・高林節美",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/xzXjDdsl08M\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/29.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.5040063749167,
+                34.37337268334991,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.5040063749167,
+                    34.37337268334991,
+                    300,
+                    132.5040063749167,
+                    34.37337268334991,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen30",
+        "name": "羽山恒義",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/ZPWkFET5R8w\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：広島女学院高等学校有志</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/30.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4771309128041,
+                34.39645548707288,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4771309128041,
+                    34.39645548707288,
+                    300,
+                    132.4771309128041,
+                    34.39645548707288,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen31",
+        "name": "小里美智子",
+        "description": "<div class=\"balloon\"><div class=\"shogen\"><p class=\"subject\">孫たちへの証言 　あの日あの時</p><p class=\"body\">夢と希望を胸一杯に抱いて、今年も新入生、新社会人たちの笑顔と涙、そして出逢いと別れの季節と成りました。昭和一桁の私にも、希望に燃えた青春時代の遠い思い出と共に、戦中戦後の辛く厳しい当時の色々が懐かしく甦って参ります。</p><p class=\"body\">今も忘れる事の出来ない１６歳の旅立ちの春。田舎育ちの私が社会人としての一歩を踏み出した広島の街、今もそびえ立つ原爆ドームの一室で憧れの紺の制服を身に付けて、大勢の友と肩を並べて千田町の日赤病院の正門をさっそうと通過したあの日の感激と喜びは、喜寿を迎える今でも忘れることの出来ない嬉しく懐かしい思い出の一つです。</p><p class=\"body\">でも、あの一発の原爆投下によって青春のすべてを奪われ、今も癒える事のない心の痛みに耐えながら、巡り来る夏を迎える度に、あの日あの時悲痛な叫びを残して消えて逝かれた数知れない尊い御霊に涙も新たに合掌を捧げる今の私なのです。今年も又巡り来る夏の甲子園で、球児たちの汗と涙の熱い闘いが展開される事でしょう。でも私には、あの日あの時、父母の救いを待ち侘びながら淋しく消えて逝った動員学徒たちのいじらしい姿と事切れる寸前まで叫び続けた切ない言葉が、今も哀しく想い出されるのです。街全域が破壊され、火の海に包まれている事も知らないで、父母を呼び続けていた学徒たちのいじらしく憐れな姿を忘れることが出来ません。平和な今の世代に生を享けて、大勢の観衆の温かい拍手と惜しみない声援を受けながら、甲子園での堂々の大行進の球児たちの晴れ姿をまぶしく眺めながら、又しても当時の学徒たちの汗と涙の苦労が想い出されて､目頭を押さえる私なのです。</p><p class=\"body\">昼夜の区別なく繰り返される空襲警報発令と解除のけたたましく不気味なサイレンに怯えながら、日赤病院での勉強と勤務の辛く厳しい当時の思い出の数々、笑いも涙も共に分かち合った友人たちとの哀しい別れ、面影を偲びながら、今に有る命を不思議にさえ思う私なのです。想像も及ばないあの大惨事に遭遇するなんて･･･</p><p class=\"body\">あの８月６日、日赤病院の中央棟中２階に勤務していた私は、責任当直の日になっていたので、少し早めに寮を出て、朝の引き継ぎのために、詰所に行きました。いつもと変わらぬ挨拶を患者さんと交わし、最後に久保上等兵に呼び止められるのと、詰所の主任に申し送りのために呼びかけられるのが同時で、久保さんに「申し送りの後で･･･」と断って立ち去りました。久保さんは中央病棟２階で一番の重症患者となられたと記憶しています。外科の先生方も出勤途中で行方不明、ただお一人だけ、日頃救急看護の講義をしていただいた竹内医員殿が燃える電車の炎の中を脱出されて病院に来られましたが、全身火傷でその日の夕方亡くなられました。先生方もおられず、手術場もメチャクチャになったその中で、久保さんの片手切断手術を中央病棟３階の将校さんがされたのです。「殺してくれ！手を返して！」という悲痛な叫び声と痛ましいお姿が、昨日のように想い出されます。</p><p class=\"body\">話を元に戻します。詰所に引き返した私は当直引き継ぎの温度版数冊を手にした瞬間でした。あの轟音と爆風に吹き飛ばされ、詰所にいたはずの私がエレベーターの手前５０センチ位の場所で気を失っていたのです。徐々に気づいた私はびっくりしました。レベーターの扉は吹き飛ばされて上から下まで筒抜けで、暗黒の静けさの中に、言いようのない不気味さが漂っていました。気づいたあの瞬間の恐怖は今でも忘れることができません。辺りを見回しても人影はなく、静かな病棟の廊下一面に土煙が立ち上っていました。何だか夢の中に居るようで、茫然自失の状態でしたので、時間の経過もわかりませんでしたが、同僚や患者さんたち何処に･･･と思案し乍らもすぐには立ち上がる勇気も出ませんでした。</p><p class=\"body\">茫然自失の状態で時間がどのくらい経過したのか、私には知る由もありません。静まりかえった中央病棟の２階で、徐々に自分を取り戻していました。患者さんや同僚たちはどこに･･･。ふと助けを求める人の声に振り向くと、顔中血まみれの男の人、１対１で出会った最初の人、それは炊事係の人でした。血まみれのあの時の形相は今想い出しても背筋が寒くなります。人の気配を感じ、振り向くと同僚の加藤さんが居ました。「毒ガスの直撃弾を受けたようだから、早く避難しようよ」と、３人でやっとの思いで屋上に上がり、見渡した市中の光景は、はるか彼方まで家屋が押しつぶされて、至る所から火の手が上がっていました。心の動揺を抑えながら屋上より駆け下りてみると、つい先ほどまで申し送りを受けていた詰所が、壊れた壁土とガラスの破片で足の踏み場もない位。正面の入り口は出ようとする人、入ろうとする人、人の上に人で、圧死した人、それは大変な混乱振り。人々の呻き声と騒音が入り乱れ、当時の院内の様子を言葉や筆では表現できない惨状でした。</p><p class=\"body\">西側の出口に行くと、全身焼けただれて衣服もボロボロに垂れ下がり、男女の判別もできないほど変わり果てた姿の人たちが助けを求めてやっとの思いでたどり着き、そのまま息絶えていました。頭髪も焼け焦げて地獄絵でも･･･夢でもみているのでは･･･とも思い、自分を疑った程でした。また、悪臭の漂う中、ガレキの中を水を求めてさまよい、暗闇の中でつまづいた手に冷たく触れた死体の気味悪さに、思わず大声を出したあの夜。私にはすべてのことの刺激が強く、深く心に焼き付いた哀しい傷痕は永久に癒える事はないでしょう。猛火の中、助けを求めて来た負傷者たち。病院の職員全員が負傷、医薬品の全てを失い、病院は壊滅状態だったのです。何一つ期待に応える処置もできず、やっと求めた水さえも間に合わないままに息絶えた人たち。両親の助けを待ちわびながら淋しくひとり旅立って逝った動員学徒のいたいけな姿。学徒動員の命令の下に、１４・１５才の中学生が建物疎開の荒仕事に大人と共に、連日猛暑の中で汗を流し、幼い命が炎の中に肉親の救いを待ち続けて逝ったのです。</p><p class=\"body\">心身共に疲れ切って居た８月中旬、救援に駆け付けて来られた救護班の人たちに申し送りをして、やっと帰郷許可が頂ける･･･と喜んだ筈なのに、発熱と下痢を理由に帰郷療養の許可を頂いたのは９月５日か６日になってからでした。懐かしい我が家に辿り着き、最初に出逢った祖母がひと言、「まさか幽霊じゃあなかろうのう･･･」と。私は嬉しさと安心感に胸が一杯になって、「帰りました」のひと言が言えないまま、祖母に抱きついて泣いていました。</p><p class=\"body\">帰郷して２ヶ月間、気力も体力も共に失った私を、近所の人々が「ブラブラ病」と名付けて笑った哀しさを、今も忘れることはありません。１１月下旬になって病院から「復帰するように･･･」との通知を手にしたものの、あの当時の広島は見渡す限り焼け野原で「原子砂漠と化する街」、「５０年間は草木も生えず、人の住めない場所」と人々に噂が拡がり、両親も其の言葉を信じ、汚染された広島の空気の中で生活を続ける事に反対して、人生の出直しを勧めてくれたのです。あの日全てを焼き尽くされた１７才の私には、親の反対を押し切ってまで帰院する程の勇気もなく、迷い続けて中退の決断をしました。</p><p class=\"body\">決断はしたもの、夢の中での出逢いの友達に、幼子を抱えた私は何時も「バイバイ」の手を振り乍ら涙しておりました。夢から醒めて嬉しさと悔しさ半々の複雑な心境の涙の日々を今でも忘れる事が出来ません。</p><p class=\"body\">あの日、叫びを残して消えて逝かれた人々を偲ぶ時、平和の尊さと戦争をしみじみ思い直しながら、一人でも多くの若い人たちに語り伝えたくて、被爆体験の語り部として語ったこともあり、書き記したこともあります。でも、限られた時間、限られた紙数の中に上手にまとめて伝える事は出来得ませんけれど、でもこの拙い綴りでも、どなたかのお目にとどめて頂く事が叶いますならば、一人でも多くの人たちと共に、戦争と核反対の声を大きく叫んで欲しいのです。そして平和を愛する人々の輪が世界の隅々まで拡がる事を共に祈り願い続ける事が、あの悲痛な叫びを残して消えて逝かれた人々たちへの御供養に繋がるのではないでしょうか。</p><p class=\"body\">いくら書いても書き尽くせない涙の数々です。多くの人々の犠牲があればこそ、今の平和がある事を忘れないで欲しいのです。</p><p class=\"body\">これからも、出逢いの喜びと別れの哀しみを交互に織り交ぜ乍らの人生模様を見事に仕上げることは出来ないでしょうけれど、努力と精進する事に心掛け乍ら、これからの人生を精一杯頑張ります。激動の時代を乗り越えて来た老人の想い出日記の一頁と想って目を通して頂ければ幸いに想います。</p><p class=\"body\">雨風の　吹き込む窓に　看取る日の　ともす灯のなき　あの日あの時　平成16（2004）年</p><p class=\"body\">（以下は歌集『偲ぶ草　Ⅱ』からの抜粋です）</p><p class=\"body\">人の世を　細く長きの　支え杖　生きる平和の　街を見つめて　平成8（1996）年5月</p><p class=\"body\">送り火の　今宵川面に　揺らぐ影　寄りつ離れつ　何を語るや　平成8（1996）年8月</p><p class=\"body\">生き抜いた　共に涙の　苦労坂　集う平和の　安らぎの園　平成9（1997）年5月</p><p class=\"body\">此の耳に　今も聞こえる　夏の日の　学徒叫びの　父よ母よと　平成9（1997）年10月</p><p class=\"body\">感無量　赤き十字の　シンボルを　見つめ影追う　ひろしまの街　平成10（1998）年5月</p><p class=\"body\">水求め　瓦礫の街を　さまよいし　今は老ゆれど　忘れじの夏　平成10（1998）年8月</p><p class=\"body\">幾たびも　つまづく昭和　ひと桁に　支え嬉しい　平成の孫　平成11（1999）年4月</p><p class=\"body\">「語り部」の　副える涙の　ひと言は　街の悲劇を　忘れないで･･と　平成11（1999）年7月</p><p class=\"body\">半世紀　過ぎた今でも　此の耳に　親子求めて　泣き叫ぶ声　平成12（2000）年5月</p><p class=\"body\">青春の　夢を語りし　原爆友　消えぬ面影　夏の街かど　平成12（2000）年7月</p><p class=\"body\"></div></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/31.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.4542834501438,
+                34.38050778720576,
+                150
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.4542834501438,
+                    34.38050778720576,
+                    150,
+                    132.4542834501438,
+                    34.38050778720576,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "video_shogen32",
+        "name": "篠田恵",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/NjMB-i4Kd78\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：篠田美穂</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/32.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.460488,
+                34.421055,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.460488,
+                    34.421055,
+                    300,
+                    132.460488,
+                    34.421055,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
