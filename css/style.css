@@ -689,7 +689,9 @@ input[type=range]:focus::-ms-fill-upper {
 
 .cc {
 	position:absolute;
-	bottom:8;
-	left:8;
+	margin:0px;
+	padding:0px;
+	bottom:0px;
+	left:4px;
 	z-index:200000;
 }
