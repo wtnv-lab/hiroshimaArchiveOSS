@@ -1411,5 +1411,49 @@
                 }
             }
         }
+    },
+    {
+        "id": "video_shogen33",
+        "name": "吉永保子 (旧姓:水本) ",
+        "description": "<div class=\"video\"><p class=\"image\"><iframe width=\"297\" height=\"163\" src=\"http://www.youtube.com/embed/1I_ajombuDg\" frameborder=\"0\" allowfullscreen></iframe></p></div><div class=\"video_reference\"><p class=\"reference\">収録：TAZI 弥生</p></div>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "../icon/video_shogen/33.png",
+            "scale": 0.5,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                132.500662,
+                34.517629,
+                300
+            ]
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    132.500662,
+                    34.517629,
+                    300,
+                    132.500662,
+                    34.517629,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            128,
+                            128,
+                            255,
+                            128
+                        ]
+                    }
+                }
+            }
+        }
     }
 ]
