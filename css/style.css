@@ -344,87 +344,73 @@ input {
 /*フォトオーバレイ関連*/
 
 #photoContainer {
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	width: 100%;
-	height: 100%;
-	z-index: 10003;
-}
-
-#photoBox {
-    -webkit-filter: saturate(0%);
-    -moz-filter: saturate(0%);
-    -o-filter: saturate(0%);
-    -ms-filter: saturate(0%);
-    filter: saturate(0%);
-	transition: all 300ms 0s ease;
-	text-align:center;
-}
-
-#photoBox:hover {
-	-webkit-filter: saturate(100%);
-	-moz-filter: saturate(100%);
-	-o-filter: saturate(100%);
-	-ms-filter: saturate(100%);
-	filter: saturate(100%);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 10003;
+    text-align: center;
 }
 
 .photograph {
-	max-width:95%;
-	max-height:80%;
-	-webkit-box-shadow:0 0 15px rgba(0,0,0,1);
-	-moz-box-shadow:0 0 15px rgba(0,0,0,1);
-	box-shadow:0 0 15px rgba(0,0,0,1);
-	margin: 50vh auto 0;
-	transform: translateY(-50%);
+    max-width: 95%;
+    max-height: 80%;
+    -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0 0 15px rgba(0, 0, 0, 1);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 1);
+    margin: 50vh auto 0;
+    transform: translateY(-50%);
 }
 
-#descriptionContainer{
-	position:absolute;
-	bottom:0px;
-	left:0px;
-	width:100%;
-	margin:0;
-	padding: 10px 5px 10px 5px;
+#descriptionContainer {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
     z-index: 10000;
     opacity: 0.9;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
-.colorize_credit {
-	position:absolute;
-	width:100%;
-	font-size:10px;
-	text-align:center;
-	top:42px;
-	color:white;
-	opacity:0.6;
+.id {
+    display: none;
 }
 
-.id{
-	display:none;
+.photoName {
+    color: white;
+    font-size: 12px;
+    line-height: 1em;
+    font-weight: bold;
+    margin-left: 5px;
 }
 
-.photographer{
-	color:white;
-	font-size:11px;
-	line-height: 1em;
-	font-weight:bold;
+.photographer {
+    color: white;
+    font-size: 9px;
+    line-height: 1em;
+    margin-left: 5px;
 }
 
-.photographer_en{
-	color:white;
-	font-size:11px;
-	line-height: 1em;
-	font-weight:bold;
+.photographer_en {
+    color: white;
+    font-size: 11px;
+    line-height: 1em;
+    font-weight: bold;
 }
 
-.photograph_text{
-	color:white;
-	font-size:11px;
-	line-height: 1em;
-	margin:0px 10px 5px 5px;
+.photograph_text {
+    color: white;
+    font-size: 11px;
+    line-height: 1em;
+    margin: 0px 10px 5px 5px;
+}
+
+.photograph_text {
+    color: white;
+    font-size: 11px;
+    line-height: 1em;
+    margin: 0px 10px 5px 5px;
 }
 
 /* ストリートビュー関連 */
